@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto,-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.green__gradient {
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #b8fde1 100%);
+  filter: blur(123px);
+}
+
+html {
+  @apply overflow-x-hidden
+}
+
