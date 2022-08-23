@@ -65,6 +65,7 @@ const Testimonials = () => {
             <img
               src='/assets/noelias.jpg'
               className='rounded-full w-[80px] mt-5'
+              alt='person'
             />
           </picture>
           <p className='text-[0.7rem] leading-5 mt-5 font-thin'>
