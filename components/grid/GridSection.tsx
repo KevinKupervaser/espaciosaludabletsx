@@ -16,54 +16,63 @@ const GridSection = () => {
             <img
               src='grid/1.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/2.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/3.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/4.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/5.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/6.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/7.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/8.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
           <picture>
             <img
               src='grid/9.jpg'
               className='h-[150px] w-[150px] object-cover transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300'
+              alt='food'
             />
           </picture>
         </div>

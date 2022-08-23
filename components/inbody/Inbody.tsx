@@ -9,6 +9,7 @@ const Inbody = () => {
             <img
               src='assets/inbody.png'
               className='w-[100px] h-[200px] md:w-[200px] md:h-[300px] object-contain'
+              alt='inbody'
             />
           </picture>
         </div>
