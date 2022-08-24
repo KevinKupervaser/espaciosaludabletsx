@@ -188,7 +188,7 @@ const productsData = [
     id: "026",
     name: "BARRAS INTEGRA - BARRAS SIN TACC",
     category: "barritas",
-    image: "/Images/barrasintegra.jpg",
+    image: "/Images/barrasintegra.JPG",
     price: "150",
   },
   {
