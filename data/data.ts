@@ -100,7 +100,6 @@ const productsData = [
     price: "300",
   },
 
-
   {
     id: "015",
     name: "ALFAJOR CELIENERGY NUEZ (relleno de dulce de leche)",
@@ -156,7 +155,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "020",
@@ -172,8 +171,6 @@ const productsData = [
     image: "/Images/cookiechocomani.JPG",
     price: "SIN STOCK",
   },
-
-
 
   {
     id: "021",
@@ -211,7 +208,6 @@ const productsData = [
     price: "1200",
   },
 
-
   {
     id: "026",
     name: "CRACKERS INTEGRA - 120gr.",
@@ -238,16 +234,15 @@ const productsData = [
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onefit.JPG",
-    price: "950",
+    price: "850",
   },
   {
     id: "030",
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onefit.JPG",
-    price: "950",
+    price: "930",
   },
-
 
   {
     id: "031",
@@ -313,7 +308,6 @@ const productsData = [
     image: "/Images/crackers-semilla.png",
     price: "300",
   },
-  
 
   {
     id: "040",
@@ -336,7 +330,6 @@ const productsData = [
     image: "/Images/cookielimon.jpeg",
     price: "300",
   },
-
 ];
 
 export default productsData;
