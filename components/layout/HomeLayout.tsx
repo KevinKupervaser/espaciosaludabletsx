@@ -15,7 +15,7 @@ const HomeLayout = () => {
             ESPACIO SALUDABLE
           </h1>
           <p className='sm:text-end text-lg'>
-            by{" "}
+            de{" "}
             <span className='text-green-500 opacity-70'>
               Maria Eugenia Sosa
             </span>{" "}
