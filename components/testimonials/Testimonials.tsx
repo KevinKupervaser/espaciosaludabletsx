@@ -5,7 +5,7 @@ const Testimonials = () => {
     <section className=''>
       <div className='flex items-center justify-center mt-[5rem]'>
         <h2 className='text-center text-3xl font-bold text-gray-700'>
-          ¿QUE DICEN MIS PACIENTES?
+          EXPERIENCIAS DE PACIENTES
         </h2>
       </div>
       <div className='grid grid-cols-1 md:grid-cols-3 justify-items-center place-items-center '>

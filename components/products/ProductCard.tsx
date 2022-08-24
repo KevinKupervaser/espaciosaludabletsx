@@ -1,6 +1,7 @@
 import Link from "next/link";
 import * as React from "react";
 import Notification from "../ui/Notification";
+import Remove from "../ui/Remove";
 import WappButton from "../ui/WappButton";
 import { Product } from "./types";
 
@@ -52,7 +53,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ products }) => {
 
   return (
     <>
-      <div className='mt-5 grid grid-cols-2 md:grid-cols-5 place-items-center justify-items-center gap-3'>
+      <div className='mt-5 grid grid-cols-2 md:grid-cols-5 place-items-center justify-items-center gap-3 bg-green-300/20'>
         {products.map((product, index) => (
           <div
             key={index}
@@ -101,24 +102,32 @@ const ProductCard: React.FC<ProductCardProps> = ({ products }) => {
         {/* Boolean(cart.length) */}
 
         {Boolean(cart.length) && (
-          <Link
-            href={`https://wa.me/543794924822?text=Hola Maria Eugenia! Quiero pedirte:${encodeURIComponent(
-              whatsappText
-            )}`}
-          >
-            <a>
-              <WappButton>Finalizar Compra ({cart.length})</WappButton>
-            </a>
-          </Link>
+          <div className='bg-white w-[100vw] fixed top-0 left-0 py-2 flex flex-row items-center justify-center border shadow-md z-[99]'>
+            <Link
+              href={`https://wa.me/543794924822?text=Hola Maria Eugenia! Quiero pedirte:${encodeURIComponent(
+                whatsappText
+              )}`}
+            >
+              <a>
+                <button className='bg-green-600 py-2 px-5 text-white rounded-xl shadow-md flex gap-2'>
+                  Finalizar Compra ({cart.length})
+                  <div>
+                    <picture>
+                      <img
+                        src='assets\whatsapplogo.svg'
+                        className='object-cover'
+                        alt='whatsapp'
+                      />
+                    </picture>
+                  </div>
+                </button>
+              </a>
+            </Link>
+
+            <Remove onClick={()=>setCart([])}>{}</Remove>
+          </div>
         )}
       </div>
-
-      <div className='absolute -z-30 w-[100vw] h-[100vh] right-[10%] rounded-full green__gradient top-[10rem]' />
-      <div className='absolute -z-30 w-[100vw] h-[100vh] right-[10%] rounded-full green__gradient top-[30rem]' />
-      <div className='absolute -z-30 w-[100vw] h-[100vh] right-[10%] rounded-full green__gradient top-[45rem]' />
-
-      <div className='absolute -z-30 w-[100vw] h-[100vh] right-[10%] rounded-full green__gradient top-[80rem]' />
-      <div className='sm:hidden absolute -z-30 w-[100vw] h-[100vh] right-[10%] rounded-full green__gradient top-[150rem]' />
     </>
   );
 };
