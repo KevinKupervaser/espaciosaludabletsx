@@ -159,7 +159,7 @@ const productsData = [
     id: "022",
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
-    image: "/Images/mermelada-frutilla.jpeg",
+    image: "/Images/mermelada-frutilla.png",
     price: "550",
   },
   {
@@ -211,6 +211,20 @@ const productsData = [
     category: "cereales",
     image: "/Images/granola-choco.webp",
     price: "800",
+  },
+  {
+    id: "030",
+    name: "PREMEZCLA PANCAKE MANI (ONEFIT) - 300gr.",
+    category: "cereales",
+    image: "/Images/onefit.JPG",
+    price: "950",
+  },
+  {
+    id: "031",
+    name: "PREMEZCLA PANCAKE CON STEVIA (ONEFIT) - 300gr.",
+    category: "cereales",
+    image: "/Images/onefit.JPG",
+    price: "950",
   },
 
 ];
