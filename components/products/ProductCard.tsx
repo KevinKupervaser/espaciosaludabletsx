@@ -63,7 +63,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ products }) => {
               <picture>
                 <img
                   src={product.image}
-                  className='w-[100px] h-[100px] object-cover'
+                  className='w-[150px] h-[150px] object-cover'
                   alt={product.category}
                 />
               </picture>

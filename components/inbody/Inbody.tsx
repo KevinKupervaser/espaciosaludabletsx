@@ -2,18 +2,18 @@ import React from "react";
 
 const Inbody = () => {
   return (
-    <section>
+    <section className='h-screen'>
       <div className='grid grid-cols-1 xs:grid-cols-2 justify-items-center place-items-center h-[100vh] bg-green-100 mt-[10rem] md:mt-0'>
         <div>
           <picture>
             <img
               src='assets/inbody.png'
-              className='w-[100px] h-[200px] md:w-[200px] md:h-[300px] object-contain'
+              className='w-[200px] h-[350px] md:w-[200px] md:h-[300px] object-contain'
               alt='inbody'
             />
           </picture>
         </div>
-        <div className='p-5 md:p-0'>
+        <div className=''>
           <h2 className='font-bold text-center md:text-left text-3xl md:text-6xl text-green-400'>
             InBody <span className='text-gray-700'>120</span>
           </h2>

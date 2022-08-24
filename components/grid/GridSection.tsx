@@ -2,9 +2,9 @@ import React from "react";
 
 const GridSection = () => {
   return (
-    <section className=''>
-      <div className='grid grid-cols-1 md:text-left sm:grid-cols-2 justify-items-center place-items-center h-screen mt-10 md:mt-0'>
-        <div>
+    <section className='h-screen mt-[12rem] xs:mt-10'>
+      <div className='grid grid-cols-1 md:text-left sm:grid-cols-2 justify-items-center place-items-center'>
+        <div className='mb-5 xs:mb-0'>
           <h2 className='text-3xl text-center sm:text-left md:text-5xl font-bold text-gray-700 leading-[3rem] md:leading-[4rem]'>
             LO <span className='text-green-400'>IMPORTANTE</span> SON
             <br /> LOS <span className='text-green-400'>BUENOS HÁBITOS</span>,
