@@ -22,7 +22,7 @@ const About = () => {
             </p>
             <p className='mb-4'>
               Certificada internacionalmente en antropometría (ISAK) nivel I con
-              Francis Holway en Buenos Aires, Argentina. Asimismo, participó activamente
+              Francis Holway en Buenos Aires, Argentina. Asimismo, participo activamente
               en capacitaciones, jornadas, congresos y cursos relacionados con
               temas de nutrición, actividad física y antropometría.
             </p>

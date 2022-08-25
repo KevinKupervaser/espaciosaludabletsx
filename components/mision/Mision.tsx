@@ -5,7 +5,7 @@ const Mision = () => {
     <section>
       <div className='flex flex-col text-center h-[50vh]'>
         <h2 className='text-2xl font-semibold text-gray-600 mt-[2rem] sm:mt-[8rem] md:mt-[2rem] '>
-          Misión<span className='ml-1'>🎯</span>
+          MISIÓN<span className='ml-1'>🎯</span>
         </h2>
         <p className='text-gray-400 text-sm px-10 sm:px-0 max-w-[1040px] mx-auto leading-7 mt-5'>
           "Promover un buen estado nutricional a fin de preservar la salud y
