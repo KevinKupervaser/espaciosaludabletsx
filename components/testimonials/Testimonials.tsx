@@ -22,7 +22,7 @@ const Testimonials = () => {
           </picture>
           <p className='text-[0.7rem] leading-5 mt-5 font-thin'>
             "Euge me ayudo a entender las combinaciones posibles entre proteína,
-            carbos y fibra. Tambiíen la importancia de los mismos a la hora de
+            carbos y fibra. Tambíen la importancia de los mismos a la hora de
             seguir objetivos para mejorar mi calidad de vida. Sin dudas la
             recomiendo es una excelente nutricionista y persona."
           </p>
