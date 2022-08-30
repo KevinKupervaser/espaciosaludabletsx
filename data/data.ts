@@ -4,35 +4,35 @@ const productsData = [
     name: "BARRA DE PASAS Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyarandanos.jpeg",
-    price: "SIN STOCK",
+    price: "180",
   },
   {
     id: "002",
     name: "BARRA DE PASAS Y ALMENDRAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyalmendras.png",
-    price: "SIN STOCK",
+    price: "180",
   },
   {
     id: "003",
     name: "BARRA DE MANZANA Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-manzanayarandanos.png",
-    price: "SIN STOCK",
+    price: "180",
   },
   {
     id: "004",
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "SIN STOCK",
+    price: "180",
   },
   {
     id: "005",
     name: "BARRA DE BANANAS Y DDL SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-bananayddl.jpeg",
-    price: "SIN STOCK",
+    price: "180",
   },
 
   {
@@ -65,10 +65,10 @@ const productsData = [
   },
   {
     id: "010",
-    name: "GRANOLA LIGHT - 500gr.",
+    name: "GRANOLA ORANN LIGHT - 500gr.",
     category: "cereales",
-    image: "/Images/granola.jpg",
-    price: "SIN STOCK",
+    image: "/Images/granola-oran.JPG",
+    price: "1050",
   },
 
   {
@@ -120,14 +120,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "390",
+    price: "SIN STOCK",
   },
   {
     id: "017",
     name: "COOKIES INTEGRALES NARANJA - 1kg.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
   {
     id: "018",
@@ -155,7 +155,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
   {
     id: "020",
@@ -205,7 +205,7 @@ const productsData = [
     name: "MIX DE SEMILLAS (chía, lino, sesamo, girasol) - 200gr.",
     category: "cereales",
     image: "/Images/mixsemillas.webp",
-    price: "1200",
+    price: "200",
   },
 
   {
@@ -321,7 +321,7 @@ const productsData = [
     name: "COOKIES INTEGRA CHOCOLATE Y AVELLANA - 120gr.",
     category: "galletitas",
     image: "/Images/cookiechocolate.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "042",
