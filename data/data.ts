@@ -96,7 +96,7 @@ const productsData = [
     id: "014",
     name: "ALMOHADILLA RELLENA FRUTILLA - 200gr.",
     category: "cereales",
-    image: "/Images/almohadilla-frutilla.jpg",
+    image: "/Images/frutillas.JPG",
     price: "300",
   },
 
@@ -254,7 +254,7 @@ const productsData = [
   },
   {
     id: "033",
-    name: "BARRA INTEGRA CHOCOLATE SIN TACC - 44gr.",
+    name: "BARRA INTEGRA CHOCOLATE SIN TACC - 27gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
     price: "150",
@@ -275,9 +275,9 @@ const productsData = [
   },
   {
     id: "036",
-    name: "BARRA INTEGRA CACAO PURO - 44gr.",
+    name: "BARRA INTEGRA SEMILLAS Y CHOCOLATE SIN TACC - 27gr.",
     category: "barritas",
-    image: "/Images/BIcacaopuro.webp",
+    image: "/Images/semilla-cacao.JPG",
     price: "150",
   },
 
