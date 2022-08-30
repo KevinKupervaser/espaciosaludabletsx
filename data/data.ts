@@ -40,14 +40,14 @@ const productsData = [
     name: "PASTA DE MANI NATURAL - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani.JPG",
-    price: "SIN STOCK",
+    price: "580",
   },
   {
     id: "007",
     name: "PASTA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "SIN STOCK",
+    price: "580",
   },
   {
     id: "008",
@@ -254,7 +254,7 @@ const productsData = [
   },
   {
     id: "033",
-    name: "BARRA INTEGRA CHOCOLATE y AVENA SIN TACC - 44gr.",
+    name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
     price: "150",
@@ -293,7 +293,7 @@ const productsData = [
     name: "CRACKERS TOMATE ALBAHACA - 150gr.",
     category: "crackers",
     image: "/Images/crackers-tomate.png",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "039",
@@ -308,7 +308,7 @@ const productsData = [
     name: "COOKIES INTEGRA ALMENDRA Y COCO - 120gr.",
     category: "galletitas",
     image: "/Images/cookiealmendra.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "041",
