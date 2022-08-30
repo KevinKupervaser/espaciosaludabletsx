@@ -169,7 +169,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
 
   {
@@ -208,13 +208,7 @@ const productsData = [
     price: "200",
   },
 
-  {
-    id: "026",
-    name: "CRACKERS INTEGRA - 120gr.",
-    category: "cereales",
-    image: "/Images/cookiesintegra.jpeg",
-    price: "300",
-  },
+  
   {
     id: "027",
     name: "GRANOLA CLASICA - 350gr.",
