@@ -254,7 +254,7 @@ const productsData = [
   },
   {
     id: "033",
-    name: "BARRA INTEGRA CHOCOLATE SIN TACC - 27gr.",
+    name: "BARRA INTEGRA CHOCOLATE y AVENA SIN TACC - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
     price: "150",
