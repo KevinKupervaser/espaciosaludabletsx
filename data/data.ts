@@ -65,7 +65,7 @@ const productsData = [
   },
   {
     id: "010",
-    name: "GRANOLA ORANN LIGHT - 500gr.",
+    name: "GRANOLA ORANN LIGHT - 1kg.",
     category: "cereales",
     image: "/Images/granola-oran.JPG",
     price: "1050",
