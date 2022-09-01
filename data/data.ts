@@ -134,7 +134,7 @@ const productsData = [
     name: "COOKIES INTEGRALES NARANJA - 200gr.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "SIN STOCK",
+    price: "370",
   },
   {
     id: "019",
@@ -328,7 +328,7 @@ const productsData = [
     id: "043",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
-    image: "/Images/bocadito-chocolate.jpg",
+    image: "/Images/bocadito-chocolate.JPG",
     price: "120",
   },
 ];
