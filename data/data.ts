@@ -208,7 +208,6 @@ const productsData = [
     price: "200",
   },
 
-  
   {
     id: "027",
     name: "GRANOLA CLASICA - 350gr.",
@@ -328,7 +327,7 @@ const productsData = [
     id: "043",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
-    image: "/Images/bocadito-chocolate.JPG",
+    image: "/Images/bocadito-chocolate1.JPG",
     price: "120",
   },
 ];
