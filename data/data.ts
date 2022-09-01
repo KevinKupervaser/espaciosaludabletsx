@@ -61,14 +61,14 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "500",
+    price: "SIN STOCK",
   },
   {
     id: "010",
     name: "GRANOLA ORANN LIGHT - 1kg.",
     category: "cereales",
     image: "/Images/granola-oran.JPG",
-    price: "1050",
+    price: "SIN STOCK",
   },
 
   {
