@@ -83,14 +83,14 @@ const productsData = [
     name: "AVENA TRADICIONAL - 1kg.",
     category: "cereales",
     image: "/Images/avena.JPG",
-    price: "300",
+    price: "420",
   },
   {
     id: "013",
     name: "ALMOHADILLA DE SALVADO - 400gr.",
     category: "cereales",
     image: "/Images/almohadilla-salvado.jpg",
-    price: "400",
+    price: "500",
   },
   {
     id: "014",
@@ -113,14 +113,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "1350",
   },
   {
     id: "016",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "390",
   },
   {
     id: "017",
@@ -141,14 +141,14 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
   {
     id: "020",
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "SIN STOCK",
+    price: "370",
   },
   {
     id: "020",
@@ -162,7 +162,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "370",
   },
   {
     id: "020",
@@ -188,17 +188,17 @@ const productsData = [
   },
   {
     id: "023",
-    name: "PAN ESPECIAL CALABAZA masa madre - 560gr.",
+    name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "550",
   },
   {
     id: "024",
-    name: "PAN DOBLE INTEGRAL masa madre - 560gr.",
+    name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "550",
   },
   {
     id: "025",
@@ -323,6 +323,13 @@ const productsData = [
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
     price: "300",
+  },
+  {
+    id: "043",
+    name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
+    category: "bocadito",
+    image: "/Images/bocadito-chocolate.jpg",
+    price: "120",
   },
 ];
 
