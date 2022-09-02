@@ -328,7 +328,7 @@ const productsData = [
     name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "043",
