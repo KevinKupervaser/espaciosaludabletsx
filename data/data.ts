@@ -279,6 +279,13 @@ const productsData = [
     image: "/Images/semilla-cacao.JPG",
     price: "150",
   },
+  {
+    id: "044",
+    name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
+    category: "barritas",
+    image: "/Images/integrachocomani.JPG",
+    price: "150",
+  },
 
   {
     id: "037",
