@@ -61,7 +61,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "SIN STOCK",
+    price: "500",
   },
   {
     id: "009",
@@ -127,7 +127,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "390",
   },
   {
     id: "017",
@@ -291,7 +291,7 @@ const productsData = [
     name: "BARRA INTEGRA SEMILLAS Y CHOCOLATE SIN TACC - 27gr.",
     category: "barritas",
     image: "/Images/semilla-cacao.JPG",
-    price: "SIN STOCK",
+    price: "150",
   },
   {
     id: "044",
@@ -305,7 +305,7 @@ const productsData = [
     id: "037",
     name: "CRACKERS PARMESANO - 150gr.",
     category: "crackers",
-    image: "/Images/crackers-parmesano.jpg",
+    image: "/Images/crackersparmesano.png",
     price: "300",
   },
   {
@@ -348,7 +348,7 @@ const productsData = [
     id: "043",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
-    image: "/Images/bocadito-chocolate1.JPG",
+    image: "/Images/bocaditochoco.png",
     price: "120",
   },
 ];
