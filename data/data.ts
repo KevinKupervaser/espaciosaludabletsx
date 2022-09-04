@@ -64,11 +64,18 @@ const productsData = [
     price: "SIN STOCK",
   },
   {
+    id: "009",
+    name: "KONY STEVIA POLVO - 100u.",
+    category: "edulcorante",
+    image: "/Images/kony.jpg",
+    price: "600",
+  },
+  {
     id: "010",
     name: "GRANOLA ORANN LIGHT - 1kg.",
     category: "cereales",
     image: "/Images/granola-oran.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
 
   {
@@ -170,6 +177,13 @@ const productsData = [
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
     price: "1200",
+  },
+  {
+    id: "020",
+    name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
+    category: "cereales",
+    image: "/Images/cookieschocomani.jpg",
+    price: "370",
   },
 
   {
@@ -277,7 +291,7 @@ const productsData = [
     name: "BARRA INTEGRA SEMILLAS Y CHOCOLATE SIN TACC - 27gr.",
     category: "barritas",
     image: "/Images/semilla-cacao.JPG",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "044",
