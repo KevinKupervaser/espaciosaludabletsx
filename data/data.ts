@@ -227,7 +227,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 350gr.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "SIN STOCK",
+    price: "800",
   },
   {
     id: "028",
