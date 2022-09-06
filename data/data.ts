@@ -224,10 +224,10 @@ const productsData = [
 
   {
     id: "027",
-    name: "GRANOLA CLASICA - 350gr.",
+    name: "GRANOLA INTEGRA CLASICA - 350gr.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "800",
+    price: "SIN STOCK",
   },
   {
     id: "028",
@@ -320,7 +320,7 @@ const productsData = [
     name: "CRACKERS SEMILLAS - 150gr.",
     category: "crackers",
     image: "/Images/crackers-semilla.png",
-    price: "300",
+    price: "SIN STOCK",
   },
 
   {
