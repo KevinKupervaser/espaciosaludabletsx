@@ -61,7 +61,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "500",
+    price: "550",
   },
   {
     id: "009",
@@ -84,6 +84,13 @@ const productsData = [
     category: "cereales",
     image: "/Images/copos-maiz.png",
     price: "SIN STOCK",
+  },
+  {
+    id: "011",
+    name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
+    category: "cereales",
+    image: "/Images/fsecosbanana.JPG",
+    price: "290",
   },
   {
     id: "012",
@@ -127,7 +134,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "390",
+    price: "410",
   },
   {
     id: "017",
@@ -141,7 +148,7 @@ const productsData = [
     name: "COOKIES INTEGRALES NARANJA - 200gr.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "370",
+    price: "410",
   },
   {
     id: "019",
@@ -155,7 +162,7 @@ const productsData = [
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "370",
+    price: "410",
   },
   {
     id: "020",
@@ -169,7 +176,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "370",
+    price: "410",
   },
   {
     id: "020",
@@ -183,7 +190,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "370",
+    price: "410",
   },
 
   {
