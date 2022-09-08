@@ -219,7 +219,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "550",
+    price: "SIN STOCK",
   },
   {
     id: "025",
