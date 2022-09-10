@@ -208,6 +208,21 @@ const productsData = [
     price: "550",
   },
   {
+    id: "022",
+    name: "MERMELADA DIETETICA ARANDANOS - 400gr",
+    category: "mermelada",
+    image: "/Images/arandanosmerme.JPG",
+    price: "550",
+  },
+  {
+    id: "022",
+    name: "MIEL PURA - 400gr",
+    category: "mermelada",
+    image: "/Images/mielpura.JPG",
+    price: "SIN STOCK",
+  },
+
+  {
     id: "023",
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
