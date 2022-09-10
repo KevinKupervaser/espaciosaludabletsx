@@ -285,7 +285,7 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "033",
