@@ -285,14 +285,14 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "SIN STOCK",
+    price: "150",
   },
   {
     id: "033",
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "SIN STOCK",
+    price: "150",
   },
   {
     id: "034",
@@ -320,7 +320,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
     category: "barritas",
     image: "/Images/integrachocomani.JPG",
-    price: "SIN STOCK",
+    price: "150",
   },
 
   {
@@ -335,14 +335,14 @@ const productsData = [
     name: "CRACKERS TOMATE ALBAHACA - 150gr.",
     category: "crackers",
     image: "/Images/crackers-tomate.png",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "039",
     name: "CRACKERS SEMILLAS - 150gr.",
     category: "crackers",
     image: "/Images/crackers-semilla.png",
-    price: "SIN STOCK",
+    price: "300",
   },
 
   {
@@ -350,28 +350,28 @@ const productsData = [
     name: "COOKIES INTEGRA ALMENDRA Y COCO - 120gr.",
     category: "galletitas",
     image: "/Images/cookiealmendra.jpeg",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "041",
     name: "COOKIES INTEGRA CHOCOLATE Y AVELLANA - 120gr.",
     category: "galletitas",
     image: "/Images/cookiechocolate.jpeg",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "042",
     name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "043",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
     image: "/Images/bocaditochoco.png",
-    price: "SIN STOCK",
+    price: "120",
   },
 ];
 
