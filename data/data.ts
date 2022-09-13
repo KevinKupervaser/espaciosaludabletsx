@@ -335,7 +335,7 @@ const productsData = [
     name: "CRACKERS TOMATE ALBAHACA - 150gr.",
     category: "crackers",
     image: "/Images/crackers-tomate.png",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "039",
