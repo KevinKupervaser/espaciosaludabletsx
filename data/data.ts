@@ -328,7 +328,7 @@ const productsData = [
     name: "CRACKERS PARMESANO - 150gr.",
     category: "crackers",
     image: "/Images/crackersparmesano.png",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "038",
