@@ -263,13 +263,20 @@ const productsData = [
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onefit.JPG",
-    price: "850",
+    price: "SIN STOCK",
   },
   {
     id: "030",
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onefit.JPG",
+    price: "930",
+  },
+  {
+    id: "030",
+    name: "PREMEZCLA PANCAKE CACAO (ONETWOFIT) - 300gr.",
+    category: "cereales",
+    image: "/Images/onetwocacao.JPG",
     price: "930",
   },
 
@@ -364,7 +371,7 @@ const productsData = [
     name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "043",
