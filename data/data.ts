@@ -263,21 +263,21 @@ const productsData = [
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "850",
+    price: "1200",
   },
   {
     id: "030",
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "930",
+    price: "1300",
   },
   {
     id: "030",
     name: "PREMEZCLA PANCAKE CACAO (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "930",
+    price: "1450",
   },
 
   {
