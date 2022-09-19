@@ -378,7 +378,7 @@ const productsData = [
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
     image: "/Images/bocaditochoco.png",
-    price: "120",
+    price: "SIN STOCK",
   },
 ];
 
