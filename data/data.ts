@@ -327,7 +327,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
     category: "barritas",
     image: "/Images/integrachocomani.JPG",
-    price: "150",
+    price: "SIN STOCK",
   },
 
   {
