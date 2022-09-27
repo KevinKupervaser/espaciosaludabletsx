@@ -50,6 +50,13 @@ const productsData = [
     price: "580",
   },
   {
+    id: "007",
+    name: "MANTEQUILLA DE MANI CROPPERS - 310gr.",
+    category: "mantequilla",
+    image: "/Images/mantemani-choco.JPG",
+    price: "430",
+  },
+  {
     id: "008",
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
