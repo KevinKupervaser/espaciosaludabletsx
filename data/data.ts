@@ -53,7 +53,7 @@ const productsData = [
     id: "007",
     name: "MANTEQUILLA DE MANI CROPPERS - 310gr.",
     category: "mantequilla",
-    image: "/Images/mantemani-choco.JPG",
+    image: "/Images/croppers-mani.JPG",
     price: "430",
   },
   {
