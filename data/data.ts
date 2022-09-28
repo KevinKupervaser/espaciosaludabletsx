@@ -340,7 +340,7 @@ const productsData = [
     id: "044",
     name: "BARRA INTEGRA BASE DE CHOCOLATE con ARÁNDANOS - 44gr.",
     category: "barritas",
-    image: "/Images/barra-chocoyarandano.JPG",
+    image: "/Images/barra-chocoyarandano.jpg",
     price: "SIN STOCK",
   },
   {
@@ -397,7 +397,7 @@ const productsData = [
     id: "044",
     name: "BOCADITO INTEGRA ARÁNDANOS & CHOCOLATE - 26gr.",
     category: "bocadito",
-    image: "/Images/bocadito-chocoyarandano.JPG",
+    image: "/Images/bocadito-chocoyarandano.jpg",
     price: "SIN STOCK",
   },
 ];
