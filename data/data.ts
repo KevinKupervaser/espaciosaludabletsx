@@ -336,7 +336,13 @@ const productsData = [
     image: "/Images/integrachocomani.JPG",
     price: "SIN STOCK",
   },
-
+  {
+    id: "044",
+    name: "BARRA INTEGRA BASE DE CHOCOLATE con ARÁNDANOS - 44gr.",
+    category: "barritas",
+    image: "/Images/barra-chocoyarandano.JPG",
+    price: "SIN STOCK",
+  },
   {
     id: "037",
     name: "CRACKERS PARMESANO - 150gr.",
@@ -385,6 +391,13 @@ const productsData = [
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
     image: "/Images/bocaditochoco.png",
+    price: "SIN STOCK",
+  },
+  {
+    id: "044",
+    name: "BOCADITO INTEGRA ARÁNDANOS & CHOCOLATE - 26gr.",
+    category: "bocadito",
+    image: "/Images/bocadito-chocoyarandano.JPG",
     price: "SIN STOCK",
   },
 ];

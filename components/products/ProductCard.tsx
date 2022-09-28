@@ -53,7 +53,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ products }) => {
 
   return (
     <>
-      <div className='mt-5 grid grid-cols-2 md:grid-cols-5 place-items-center justify-items-center gap-3 bg-green-300/20'>
+      <div className='pt-2 grid grid-cols-2 md:grid-cols-5 place-items-center justify-items-center gap-3 bg-green-300/20'>
         {products.map((product, index) => (
           <div
             key={index}
