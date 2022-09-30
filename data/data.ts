@@ -299,14 +299,14 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "033",
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "034",
