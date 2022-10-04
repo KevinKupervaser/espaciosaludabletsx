@@ -82,7 +82,7 @@ const productsData = [
     name: "GRANOLA ORANN LIGHT - 1kg.",
     category: "cereales",
     image: "/Images/granola-oran.JPG",
-    price: "1200",
+    price: "SIN STOCK",
   },
 
   {
@@ -134,7 +134,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1350",
+    price: "SIN STOCK",
   },
   {
     id: "016",
@@ -148,7 +148,7 @@ const productsData = [
     name: "COOKIES INTEGRALES NARANJA - 1kg.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "1200",
+    price: "SIN STOCK",
   },
   {
     id: "018",
