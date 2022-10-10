@@ -143,10 +143,10 @@ const productsData = [
   },
   {
     id: "021",
-    name: "COPOS DE MAIZ - 400gr.",
+    name: "COPOS DE MAIZ - 150gr.",
     category: "cereales",
     image: "/Images/coposmaiz.JPG",
-    price: "390",
+    price: "270",
   },
 
   {
