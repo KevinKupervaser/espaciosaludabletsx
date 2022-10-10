@@ -96,14 +96,14 @@ const productsData = [
     id: "014",
     name: "NUEZ PELADA - 200gr.",
     category: "cereales",
-    image: "/Images/nuezpelada.JPG",
+    image: "/Images/nuezpeladadorada.JPG",
     price: "430",
   },
   {
     id: "015",
     name: "ALMENDRAS - 200gr.",
     category: "cereales",
-    image: "/Images/almendrapelada.JPG",
+    image: "/Images/almendrasbowl.JPG",
     price: "650",
   },
   {
@@ -147,14 +147,6 @@ const productsData = [
     category: "cereales",
     image: "/Images/coposmaiz.JPG",
     price: "270",
-  },
-
-  {
-    id: "022",
-    name: "ALFAJOR CELIENERGY NUEZ (relleno de dulce de leche)",
-    category: "alfajor",
-    image: "/Images/alfajor-ce-nuez.png",
-    price: "SIN STOCK",
   },
 
   {
