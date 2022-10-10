@@ -89,7 +89,7 @@ const productsData = [
     id: "013",
     name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
     category: "cereales",
-    image: "/Images/fsecosbanana.JPG",
+    image: "/Images/frutossecosnuevo.JPG",
     price: "290",
   },
   {
