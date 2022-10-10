@@ -94,10 +94,10 @@ const productsData = [
   },
   {
     id: "014",
-    name: "NUEZ PELADA - 200gr.",
+    name: "NUEZ PELADA - 100gr.",
     category: "cereales",
     image: "/Images/nuezpeladadorada.JPG",
-    price: "430",
+    price: "215",
   },
   {
     id: "015",
