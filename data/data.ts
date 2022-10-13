@@ -64,6 +64,21 @@ const productsData = [
     price: "450",
   },
   {
+    id: "009",
+    name: "JUAL STEVIA LIQUIDO - 250ml.",
+    category: "edulcorante",
+    image: "/Images/jual-edulcorante.jpg",
+    price: "1650",
+  },
+  {
+    id: "009",
+    name: "JUAL STEVIA LIQUIDO - 600ml.",
+    category: "edulcorante",
+    image: "/Images/jual-edulcorante.jpg",
+    price: "1380",
+  },
+ 
+  {
     id: "010",
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
@@ -154,7 +169,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "1400",
   },
   {
     id: "024",
@@ -168,7 +183,7 @@ const productsData = [
     name: "COOKIES INTEGRALES NARANJA - 1kg.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "SIN STOCK",
+    price: "1200",
   },
   {
     id: "026",
@@ -254,14 +269,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "550",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "550",
   },
   {
     id: "039",
@@ -367,7 +382,7 @@ const productsData = [
     id: "053",
     name: "CRACKERS PARMESANO - 150gr.",
     category: "crackers",
-    image: "/Images/crackersparmesano.png",
+    image: "/Images/parmesanointegra.jpeg",
     price: "SIN STOCK",
   },
   {
