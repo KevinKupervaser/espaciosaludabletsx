@@ -37,16 +37,23 @@ const productsData = [
 
   {
     id: "006",
-    name: "PASTA DE MANI NATURAL - 400gr.",
+    name: "MANTEQUILLA DE MANI NATURAL CON STEVIA - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani.JPG",
     price: "580",
   },
   {
     id: "007",
-    name: "PASTA DE MANI CHOCOLATE - 400gr.",
+    name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
+    price: "580",
+  },
+  {
+    id: "007",
+    name: "MANTEQUILLA MANI NATURAL 100% - 400gr.",
+    category: "mantequilla",
+    image: "/Images/mnatural.jpg",
     price: "580",
   },
   {
@@ -68,7 +75,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1650",
+    price: "650",
   },
   {
     id: "009",
@@ -160,7 +167,7 @@ const productsData = [
     id: "021",
     name: "COPOS DE MAIZ - 150gr.",
     category: "cereales",
-    image: "/Images/coposmaiz.JPG",
+    image: "/Images/3arroyos.webp",
     price: "270",
   },
 
