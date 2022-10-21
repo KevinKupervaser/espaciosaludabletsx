@@ -439,7 +439,7 @@ const productsData = [
     id: "060",
     name: "BOCADITO INTEGRA ARÁNDANOS & CHOCOLATE - 26gr.",
     category: "bocadito",
-    image: "/Images/bocadito-chocoyarandano.jpg",
+    image: "/Images/bocaditointegracya.png",
     price: "120",
   },
   {
