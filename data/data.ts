@@ -84,7 +84,7 @@ const productsData = [
     image: "/Images/jual-edulcorante.jpg",
     price: "1380",
   },
- 
+
   {
     id: "010",
     name: "JUAL STEVIA POLVO - 110gr.",
@@ -133,7 +133,7 @@ const productsData = [
     name: "AVENA TRADICIONAL - 1kg.",
     category: "cereales",
     image: "/Images/avena.JPG",
-    price: "420",
+    price: "SIN STOCK",
   },
   {
     id: "017",
@@ -372,6 +372,13 @@ const productsData = [
     price: "150",
   },
   {
+    id: "062",
+    name: "BARRA INTEGRA SEMILLA Y ARÁNDANOS SIN TACC - 27gr.",
+    category: "barritas",
+    image: "/Images/integra-semilla.JPG",
+    price: "150",
+  },
+  {
     id: "051",
     name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
     category: "barritas",
@@ -386,18 +393,25 @@ const productsData = [
     price: "150",
   },
   {
+    id: "063",
+    name: "MIX 18 BARRAS INTEGRA",
+    category: "barritas",
+    image: "/Images/muchasbarrasintegra.png",
+    price: "2700",
+  },
+  {
     id: "053",
     name: "CRACKERS PARMESANO - 150gr.",
     category: "crackers",
     image: "/Images/parmesanointegra.jpeg",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "054",
     name: "CRACKERS TOMATE ALBAHACA - 150gr.",
     category: "crackers",
     image: "/Images/crackers-tomate.png",
-    price: "SIN STOCK",
+    price: "300",
   },
   {
     id: "055",
@@ -426,14 +440,14 @@ const productsData = [
     name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "059",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
     category: "bocadito",
     image: "/Images/bocaditochoco.png",
-    price: "120",
+    price: "SIN STOCK",
   },
   {
     id: "060",
