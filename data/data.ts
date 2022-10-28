@@ -47,14 +47,14 @@ const productsData = [
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "580",
+    price: "SIN STOCK",
   },
   {
     id: "007",
     name: "MANTEQUILLA MANI NATURAL 100% - 400gr.",
     category: "mantequilla",
     image: "/Images/mnatural.jpg",
-    price: "580",
+    price: "SIN STOCK",
   },
   {
     id: "008",
@@ -276,7 +276,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "550",
+    price: "SIN STOCK",
   },
   {
     id: "038",
