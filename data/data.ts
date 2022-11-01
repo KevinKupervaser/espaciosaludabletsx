@@ -362,7 +362,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "050",
@@ -397,7 +397,7 @@ const productsData = [
     name: "MIX 18 BARRAS INTEGRA",
     category: "barritas",
     image: "/Images/muchasbarrasintegra.png",
-    price: "2700",
+    price: "SIN STOCK",
   },
   {
     id: "053",
