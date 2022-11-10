@@ -305,7 +305,7 @@ const productsData = [
     name: "GRANOLA CHOCOLATE - 350gr.",
     category: "cereales",
     image: "/Images/granola-choco.JPG",
-    price: "800",
+    price: "SIN STOCK",
   },
   {
     id: "042",
@@ -341,7 +341,7 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "047",
