@@ -334,7 +334,7 @@ const productsData = [
     name: "BARRA INTEGRA BANANA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIbanana.jpg",
-    price: "150",
+    price: "SIN STOCK",
   },
   {
     id: "046",
@@ -348,7 +348,7 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "150",
+    price: "170",
   },
   {
     id: "048",
@@ -383,7 +383,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
     category: "barritas",
     image: "/Images/integrachocomani.JPG",
-    price: "150",
+    price: "190",
   },
   {
     id: "052",
