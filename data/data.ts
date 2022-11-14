@@ -355,7 +355,7 @@ const productsData = [
     name: "BARRA INTEGRA CON GIRASOL - 44gr.",
     category: "barritas",
     image: "/Images/BIgirasol.jpg",
-    price: "150",
+    price: "170",
   },
   {
     id: "049",
@@ -390,7 +390,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE con ARÁNDANOS - 44gr.",
     category: "barritas",
     image: "/Images/barra-chocoyarandano.jpg",
-    price: "150",
+    price: "190",
   },
   {
     id: "063",
