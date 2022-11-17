@@ -218,7 +218,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1200",
+    price: "SIN STOCK",
   },
   {
     id: "030",
@@ -232,7 +232,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "1200",
+    price: "SIN STOCK",
   },
   {
     id: "032",
@@ -348,7 +348,7 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "170",
+    price: "SIN STOCK",
   },
   {
     id: "048",
@@ -404,14 +404,14 @@ const productsData = [
     name: "CRACKERS PARMESANO - 150gr.",
     category: "crackers",
     image: "/Images/parmesanointegra.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "054",
     name: "CRACKERS TOMATE ALBAHACA - 150gr.",
     category: "crackers",
     image: "/Images/crackers-tomate.png",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "055",
@@ -461,7 +461,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "210",
+    price: "SIN STOCK",
   },
 ];
 
