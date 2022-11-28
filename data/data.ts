@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "190",
+    price: "SIN STOCK",
   },
   {
     id: "005",
@@ -298,7 +298,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 350gr.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "800",
+    price: "950",
   },
   {
     id: "041",
@@ -334,21 +334,21 @@ const productsData = [
     name: "BARRA INTEGRA BANANA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIbanana.jpg",
-    price: "SIN STOCK",
+    price: "170",
   },
   {
     id: "046",
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "SIN STOCK",
+    price: "170",
   },
   {
     id: "047",
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "SIN STOCK",
+    price: "170",
   },
   {
     id: "048",
@@ -362,7 +362,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "SIN STOCK",
+    price: "170",
   },
   {
     id: "050",
@@ -397,7 +397,7 @@ const productsData = [
     name: "MIX 18 BARRAS INTEGRA",
     category: "barritas",
     image: "/Images/muchasbarrasintegra.png",
-    price: "SIN STOCK",
+    price: "2900",
   },
   {
     id: "053",
