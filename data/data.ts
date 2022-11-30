@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "SIN STOCK",
+    price: "190",
   },
   {
     id: "005",
@@ -47,7 +47,7 @@ const productsData = [
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "SIN STOCK",
+    price: "580",
   },
   {
     id: "007",
@@ -265,10 +265,10 @@ const productsData = [
   },
   {
     id: "036",
-    name: "MIEL PURA - 400gr",
+    name: "MIEL PURA - 500gr",
     category: "mermelada",
     image: "/Images/mielpura.JPG",
-    price: "SIN STOCK",
+    price: "750",
   },
 
   {
@@ -283,7 +283,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "600",
   },
   {
     id: "039",
