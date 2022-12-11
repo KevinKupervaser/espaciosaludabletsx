@@ -82,7 +82,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 600ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1380",
+    price: "SIN STOCK",
   },
 
   {
@@ -239,7 +239,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "410",
+    price: "SIN STOCK",
   },
 
   {
@@ -283,7 +283,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "600",
+    price: "SIN STOCK",
   },
   {
     id: "039",
