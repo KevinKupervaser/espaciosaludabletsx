@@ -225,7 +225,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "410",
+    price: "SIN STOCK",
   },
   {
     id: "031",
@@ -426,14 +426,14 @@ const productsData = [
     name: "COOKIES INTEGRA ALMENDRA Y COCO - 120gr.",
     category: "galletitas",
     image: "/Images/cookiealmendra.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "057",
     name: "COOKIES INTEGRA CHOCOLATE Y AVELLANA - 120gr.",
     category: "galletitas",
     image: "/Images/cookiechocolate.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "058",
