@@ -82,7 +82,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 600ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "SIN STOCK",
+    price: "1400",
   },
 
   {
@@ -197,14 +197,14 @@ const productsData = [
     name: "COOKIES INTEGRALES NARANJA - 200gr.",
     category: "cereales",
     image: "/Images/cnaranja.JPG",
-    price: "410",
+    price: "SIN STOCK",
   },
   {
     id: "027",
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "1200",
+    price: "SIN STOCK",
   },
   {
     id: "028",
@@ -298,7 +298,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 350gr.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "950",
+    price: "900",
   },
   {
     id: "041",
