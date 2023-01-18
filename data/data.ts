@@ -11,14 +11,14 @@ const productsData = [
     name: "BARRA DE PASAS Y ALMENDRAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyalmendras.png",
-    price: "250",
+    price: "SIN STOCK",
   },
   {
     id: "003",
     name: "BARRA DE MANZANA Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-manzanayarandanos.png",
-    price: "250",
+    price: "SIN STOCK",
   },
   {
     id: "004",
@@ -32,7 +32,7 @@ const productsData = [
     name: "BARRA DE BANANAS Y DDL SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-bananayddl.jpeg",
-    price: "250",
+    price: "SIN STOCK",
   },
 
   {
@@ -126,7 +126,7 @@ const productsData = [
     name: "ALMENDRAS - 200gr.",
     category: "cereales",
     image: "/Images/almendrasbowl.JPG",
-    price: "730",
+    price: "SIN STOCK",
   },
   // {
   //   id: "016",
@@ -298,14 +298,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "SIN STOCK",
+    price: "2850",
   },
   {
     id: "041",
-    name: "GRANOLA CHOCOLATE - 350gr.",
+    name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola-choco.JPG",
-    price: "SIN STOCK",
+    price: "2850",
   },
   {
     id: "042",
@@ -426,21 +426,21 @@ const productsData = [
     name: "COOKIES INTEGRA ALMENDRA Y COCO - 120gr.",
     category: "galletitas",
     image: "/Images/cookiealmendra.jpeg",
-    price: "SIN STOCK",
+    price: "530",
   },
   {
     id: "057",
     name: "COOKIES INTEGRA CHOCOLATE Y AVELLANA - 120gr.",
     category: "galletitas",
     image: "/Images/cookiechocolate.jpeg",
-    price: "SIN STOCK",
+    price: "530",
   },
   {
     id: "058",
     name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
     category: "galletitas",
     image: "/Images/cookielimon.jpeg",
-    price: "SIN STOCK",
+    price: "530",
   },
   {
     id: "059",
