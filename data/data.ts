@@ -70,20 +70,20 @@ const productsData = [
     image: "/Images/jual-edulcorante.jpg",
     price: "530",
   },
-  // {
-  //   id: "009",
-  //   name: "JUAL STEVIA LIQUIDO - 250ml.",
-  //   category: "edulcorante",
-  //   image: "/Images/jual-edulcorante.jpg",
-  //   price: "650",
-  // },
   {
     id: "009",
-    name: "JUAL STEVIA LIQUIDO - 600ml.",
+    name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1400",
+    price: "700",
   },
+  // {
+  //   id: "009",
+  //   name: "JUAL STEVIA LIQUIDO - 600ml.",
+  //   category: "edulcorante",
+  //   image: "/Images/jual-edulcorante.jpg",
+  //   price: "1400",
+  // },
 
   {
     id: "010",
@@ -298,7 +298,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "2850",
+    price: "SIN STOCK",
   },
   {
     id: "041",
