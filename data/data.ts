@@ -63,20 +63,20 @@ const productsData = [
     image: "/Images/croppers-mani.JPG",
     price: "430",
   },
-  // {
-  //   id: "009",
-  //   name: "JUAL STEVIA LIQUIDO - 125ml.",
-  //   category: "edulcorante",
-  //   image: "/Images/jual-edulcorante.jpg",
-  //   price: "450",
-  // },
   {
     id: "009",
-    name: "JUAL STEVIA LIQUIDO - 250ml.",
+    name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "650",
+    price: "530",
   },
+  // {
+  //   id: "009",
+  //   name: "JUAL STEVIA LIQUIDO - 250ml.",
+  //   category: "edulcorante",
+  //   image: "/Images/jual-edulcorante.jpg",
+  //   price: "650",
+  // },
   {
     id: "009",
     name: "JUAL STEVIA LIQUIDO - 600ml.",
@@ -276,7 +276,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "600",
+    price: "SIN STOCK",
   },
   {
     id: "038",
