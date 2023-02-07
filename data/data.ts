@@ -298,13 +298,27 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola-choco.webp",
-    price: "SIN STOCK",
+    price: "2850",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola-choco.JPG",
+    price: "2850",
+  },
+  {
+    id: "062",
+    name: "GRANOLA INTEGRA CHOCOLATE - ALMENDRA - 1kg.",
+    category: "cereales",
+    image: "/Images/granola_intregra_chocolate.jpeg",
+    price: "2850",
+  },
+  {
+    id: "063",
+    name: "GRANOLA INTEGRA (ALMENDRA-CAJU-ARANDANOS) - 1kg.",
+    category: "cereales",
+    image: "/Images/granola_intregra_caju.jpeg",
     price: "2850",
   },
   {
