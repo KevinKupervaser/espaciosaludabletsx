@@ -176,7 +176,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "024",
@@ -283,7 +283,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "600",
+    price: "SIN STOCK",
   },
   {
     id: "039",
@@ -298,7 +298,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "2850",
+    price: "SIN STOCK",
   },
   {
     id: "041",
