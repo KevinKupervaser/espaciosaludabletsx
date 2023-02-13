@@ -183,7 +183,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "550",
+    price: "SIN STOCK",
   },
   // {
   //   id: "025",
@@ -362,7 +362,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "200",
+    price: "SIN STOCK",
   },
   {
     id: "050",
@@ -413,13 +413,13 @@ const productsData = [
   //   image: "/Images/crackers-tomate.png",
   //   price: "SIN STOCK",
   // },
-  {
-    id: "055",
-    name: "CRACKERS SEMILLAS - 150gr.",
-    category: "crackers",
-    image: "/Images/crackers-semilla.png",
-    price: "300",
-  },
+  // {
+  //   id: "055",
+  //   name: "CRACKERS SEMILLAS - 150gr.",
+  //   category: "crackers",
+  //   image: "/Images/crackers-semilla.png",
+  //   price: "300",
+  // },
 
   {
     id: "056",
