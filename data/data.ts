@@ -126,7 +126,7 @@ const productsData = [
     name: "ALMENDRAS - 150gr.",
     category: "cereales",
     image: "/Images/almendrasbowl.JPG",
-    price: "750",
+    price: "950",
   },
   // {
   //   id: "016",
@@ -261,7 +261,7 @@ const productsData = [
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
     image: "/Images/mermelada-frutilla.png",
-    price: "550",
+    price: "SIN STOCK",
   },
   {
     id: "035",
