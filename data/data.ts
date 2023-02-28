@@ -104,7 +104,7 @@ const productsData = [
     name: "GRANOLA ORANN LIGHT - 1kg.",
     category: "cereales",
     image: "/Images/granola-oran.JPG",
-    price: "1260",
+    price: "SIN STOCK",
   },
 
   {
@@ -168,7 +168,7 @@ const productsData = [
     name: "ARITOS AVENA & MIEL - 180gr.",
     category: "cereales",
     image: "/Images/aritosavenamiel.JPG",
-    price: "370",
+    price: "SIN STOCK",
   },
   {
     id: "021",
@@ -183,7 +183,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1520",
+    price: "SIN STOCK",
   },
   {
     id: "024",
@@ -283,7 +283,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "650",
+    price: "SIN STOCK",
   },
   {
     id: "038",
