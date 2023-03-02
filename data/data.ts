@@ -112,7 +112,7 @@ const productsData = [
     name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
     category: "cereales",
     image: "/Images/frutossecosnuevo.JPG",
-    price: "350",
+    price: "SIN STOCK",
   },
   {
     id: "014",
@@ -183,7 +183,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "1600",
   },
   {
     id: "024",
@@ -260,15 +260,15 @@ const productsData = [
     id: "034",
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
-    image: "/Images/mermelada-frutilla.png",
-    price: "SIN STOCK",
+    image: "/Images/frutilla-mermelada.png",
+    price: "900",
   },
   {
     id: "035",
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
-    image: "/Images/arandanosmerme.JPG",
-    price: "SIN STOCK",
+    image: "/Images/arandano-mermelada.JPG",
+    price: "900",
   },
   {
     id: "036",
