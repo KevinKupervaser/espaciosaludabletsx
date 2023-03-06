@@ -305,7 +305,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "650",
+    price: "SIN STOCK",
   },
   {
     id: "039",
@@ -320,7 +320,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "2850",
+    price: "SIN STOCK",
   },
   {
     id: "041",
@@ -334,21 +334,21 @@ const productsData = [
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "SIN STOCK",
+    price: "1500",
   },
   {
     id: "043",
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "1300",
+    price: "1600",
   },
   {
     id: "044",
     name: "PREMEZCLA PANCAKE CACAO (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwocacao.JPG",
-    price: "1450",
+    price: "1650",
   },
 
   {
