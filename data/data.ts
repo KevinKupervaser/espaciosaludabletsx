@@ -147,14 +147,14 @@ const productsData = [
     name: "ALMOHADILLA RELLENA FRUTILLA - 200gr.",
     category: "cereales",
     image: "/Images/frutillas.JPG",
-    price: "300",
+    price: "SIN STOCK",
   },
   {
     id: "070",
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "550",
+    price: "SIN STOCK",
   },
   {
     id: "019",
@@ -190,7 +190,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "550",
+    price: "SIN STOCK",
   },
   // {
   //   id: "025",
@@ -225,7 +225,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "030",
