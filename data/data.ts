@@ -154,7 +154,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "SIN STOCK",
+    price: "600",
   },
   {
     id: "019",
@@ -298,14 +298,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "700",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "700",
   },
   {
     id: "039",
