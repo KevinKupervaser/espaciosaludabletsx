@@ -190,7 +190,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "600",
   },
   // {
   //   id: "025",
@@ -225,7 +225,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "1500",
   },
   {
     id: "030",
@@ -261,14 +261,14 @@ const productsData = [
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
     image: "/Images/mermelada-frutilla.jpeg",
-    price: "SIN STOCK",
+    price: "700",
   },
   {
     id: "035",
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
     image: "/Images/arandanosmerme.JPG",
-    price: "SIN STOCK",
+    price: "700",
   },
 
   {
@@ -312,7 +312,7 @@ const productsData = [
     name: "MIX DE SEMILLAS (chía, lino, sesamo, girasol) - 200gr.",
     category: "cereales",
     image: "/Images/mixsemillas.webp",
-    price: "200",
+    price: "350",
   },
 
   {
@@ -483,7 +483,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "250",
+    price: "SIN STOCK",
   },
 ];
 
