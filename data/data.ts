@@ -75,7 +75,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "700",
+    price: "850",
   },
   // {
   //   id: "009",
@@ -97,7 +97,7 @@ const productsData = [
     name: "KONY STEVIA POLVO - 100u.",
     category: "edulcorante",
     image: "/Images/kony.jpg",
-    price: "750",
+    price: "900",
   },
   {
     id: "012",
@@ -126,7 +126,7 @@ const productsData = [
     name: "ALMENDRAS - 150gr.",
     category: "cereales",
     image: "/Images/almendrasbowl.JPG",
-    price: "950",
+    price: "SIN STOCK",
   },
   // {
   //   id: "016",
@@ -225,7 +225,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "030",
