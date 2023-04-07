@@ -40,21 +40,21 @@ const productsData = [
     name: "MANTEQUILLA DE MANI NATURAL CON STEVIA - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani.JPG",
-    price: "580",
+    price: "750",
   },
   {
     id: "007",
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "580",
+    price: "750",
   },
   {
     id: "007",
     name: "MANTEQUILLA MANI NATURAL 100% - 400gr.",
     category: "mantequilla",
     image: "/Images/mnatural.jpg",
-    price: "580",
+    price: "750",
   },
   {
     id: "008",
@@ -183,7 +183,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1600",
+    price: "SIN STOCK",
   },
   {
     id: "024",
@@ -218,7 +218,7 @@ const productsData = [
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "500",
+    price: "SIN STOCK",
   },
   {
     id: "029",
@@ -370,7 +370,7 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "250",
+    price: "SIN STOCK",
   },
   {
     id: "048",
