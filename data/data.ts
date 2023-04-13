@@ -211,7 +211,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "028",
