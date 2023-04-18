@@ -99,13 +99,13 @@ const productsData = [
     image: "/Images/kony.jpg",
     price: "900",
   },
-  {
-    id: "0103",
-    name: 'AZÚCAR INTEGRAL MASCABO "EL TUPÍ" 1kg.',
-    category: "azucar",
-    image: "/Images/azucar-tupi.jpeg",
-    price: "570",
-  },
+  // {
+  //   id: "0103",
+  //   name: 'AZÚCAR INTEGRAL MASCABO "EL TUPÍ" 1kg.',
+  //   category: "azucar",
+  //   image: "/Images/azucar-tupi.jpeg",
+  //   price: "570",
+  // },
   {
     id: "104",
     name: "VRINK ALMENDRA ORIGINAL - 1Lt.",
@@ -140,7 +140,7 @@ const productsData = [
     name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
     category: "cereales",
     image: "/Images/frutossecosnuevo.JPG",
-    price: "SIN STOCK",
+    price: "790",
   },
   {
     id: "014",
@@ -154,7 +154,7 @@ const productsData = [
     name: "ALMENDRAS - 150gr.",
     category: "cereales",
     image: "/Images/almendrasbowl.JPG",
-    price: "SIN STOCK",
+    price: "970",
   },
   // {
   //   id: "016",
@@ -184,27 +184,27 @@ const productsData = [
     image: "/Images/cumana_coco.JPG",
     price: "600",
   },
-  {
-    id: "019",
-    name: "ARITOS FRUTADOS - 160gr.",
-    category: "cereales",
-    image: "/Images/aritosfrutados.JPG",
-    price: "325",
-  },
-  {
-    id: "020",
-    name: "ARITOS AVENA & MIEL - 180gr.",
-    category: "cereales",
-    image: "/Images/aritosavenamiel.JPG",
-    price: "SIN STOCK",
-  },
-  {
-    id: "021",
-    name: "COPOS DE MAIZ - 150gr.",
-    category: "cereales",
-    image: "/Images/3arroyos.webp",
-    price: "270",
-  },
+  // {
+  //   id: "019",
+  //   name: "ARITOS FRUTADOS - 160gr.",
+  //   category: "cereales",
+  //   image: "/Images/aritosfrutados.JPG",
+  //   price: "325",
+  // },
+  // {
+  //   id: "020",
+  //   name: "ARITOS AVENA & MIEL - 180gr.",
+  //   category: "cereales",
+  //   image: "/Images/aritosavenamiel.JPG",
+  //   price: "SIN STOCK",
+  // },
+  // {
+  //   id: "021",
+  //   name: "COPOS DE MAIZ - 150gr.",
+  //   category: "cereales",
+  //   image: "/Images/3arroyos.webp",
+  //   price: "270",
+  // },
 
   {
     id: "023",
@@ -288,7 +288,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "032",
