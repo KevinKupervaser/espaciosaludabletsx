@@ -506,13 +506,6 @@ const productsData = [
   //   image: "/Images/cookiechocolate.jpeg",
   //   price: "530",
   // },
-  // {
-  //   id: "058",
-  //   name: "COOKIES INTEGRA LIMON Y AMAPOLAS - 120gr.",
-  //   category: "galletitas",
-  //   image: "/Images/cookielimon.jpeg",
-  //   price: "530",
-  // },
   {
     id: "059",
     name: "BOCADITO INTEGRA MANI & CHOCOLATE - 26gr.",
