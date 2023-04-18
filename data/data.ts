@@ -184,6 +184,27 @@ const productsData = [
     image: "/Images/cumana_coco.JPG",
     price: "600",
   },
+  {
+    id: "0100",
+    name: "DIABEST CHOCOLATE Y AVENA - 200gr.",
+    category: "cereales",
+    image: "/Images/diabest-choco-avena.jpeg",
+    price: "600",
+  },
+  {
+    id: "0101",
+    name: "DIABEST COCO Y AVENA - 200gr.",
+    category: "cereales",
+    image: "/Images/diabest-coco-avena.jpeg",
+    price: "600",
+  },
+  {
+    id: "0101",
+    name: "DIABEST LIMON - 200gr.",
+    category: "cereales",
+    image: "/Images/diabest-limon.jpeg",
+    price: "600",
+  },
   // {
   //   id: "019",
   //   name: "ARITOS FRUTADOS - 160gr.",
@@ -234,27 +255,7 @@ const productsData = [
   //   image: "/Images/cnaranja.JPG",
   //   price: "SIN STOCK",
   // },
-  {
-    id: "0100",
-    name: "DIABEST CHOCOLATE Y AVENA - 200gr.",
-    category: "cereales",
-    image: "/Images/diabest-choco-avena.jpeg",
-    price: "600",
-  },
-  {
-    id: "0101",
-    name: "DIABEST COCO Y AVENA - 200gr.",
-    category: "cereales",
-    image: "/Images/diabest-coco-avena.jpeg",
-    price: "600",
-  },
-  {
-    id: "0101",
-    name: "DIABEST LIMON - 200gr.",
-    category: "cereales",
-    image: "/Images/diabest-limon.jpeg",
-    price: "600",
-  },
+
   {
     id: "027",
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
@@ -347,14 +348,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "039",
