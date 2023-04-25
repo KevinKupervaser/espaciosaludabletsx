@@ -182,7 +182,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "600",
+    price: "SIN STOCK",
   },
   {
     id: "0100",
@@ -261,7 +261,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "1600",
+    price: "SIN STOCK",
   },
   {
     id: "028",
@@ -370,14 +370,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "3100",
+    price: "SIN STOCK",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "3100",
+    price: "SIN STOCK",
   },
   {
     id: "042",
