@@ -32,7 +32,7 @@ const productsData = [
     name: "BARRA DE BANANAS Y DDL SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-bananayddl.jpeg",
-    price: "300",
+    price: "SIN STOCK",
   },
 
   {
@@ -370,14 +370,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "SIN STOCK",
+    price: "3700",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "SIN STOCK",
+    price: "3700",
   },
   {
     id: "042",
@@ -420,7 +420,7 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "SIN STOCK",
+    price: "320",
   },
   {
     id: "048",
