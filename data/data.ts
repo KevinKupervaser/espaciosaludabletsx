@@ -68,14 +68,14 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "530",
+    price: "690",
   },
   {
     id: "009",
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "850",
+    price: "930",
   },
   // {
   //   id: "009",
@@ -90,7 +90,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "720",
+    price: "830",
   },
   {
     id: "011",
@@ -232,7 +232,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1700",
+    price: "1850",
   },
   {
     id: "024",
@@ -261,7 +261,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "SIN STOCK",
+    price: "1670",
   },
   {
     id: "028",
@@ -275,7 +275,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1600",
+    price: "1670",
   },
   {
     id: "030",
@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "1600",
+    price: "1670",
   },
   {
     id: "032",
@@ -348,14 +348,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "900",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "900",
   },
   {
     id: "039",
