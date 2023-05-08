@@ -90,7 +90,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "830",
+    price: "SIN STOCK",
   },
   {
     id: "011",
@@ -239,7 +239,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "650",
+    price: "SIN STOCK",
   },
   // {
   //   id: "025",
@@ -355,7 +355,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "900",
+    price: "SIN STOCK",
   },
   {
     id: "039",
@@ -413,7 +413,7 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "320",
+    price: "SIN STOCK",
   },
   {
     id: "047",
