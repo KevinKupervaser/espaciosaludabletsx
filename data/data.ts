@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "1850",
+    price: "SIN STOCK",
   },
   {
     id: "032",
@@ -348,7 +348,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "900",
+    price: "SIN STOCK",
   },
   {
     id: "038",
@@ -455,7 +455,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
     category: "barritas",
     image: "/Images/integrachocomani.JPG",
-    price: "350",
+    price: "SIN STOCK",
   },
   {
     id: "052",
