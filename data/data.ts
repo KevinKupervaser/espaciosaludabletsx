@@ -68,14 +68,14 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "690",
+    price: "830",
   },
   {
     id: "009",
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "930",
+    price: "1050",
   },
   // {
   //   id: "009",
@@ -189,7 +189,7 @@ const productsData = [
     name: "DIABEST CHOCOLATE Y AVENA - 200gr.",
     category: "cereales",
     image: "/Images/diabest-choco-avena.jpeg",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "0101",
