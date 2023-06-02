@@ -348,14 +348,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "900",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "900",
   },
   {
     id: "039",
@@ -462,7 +462,7 @@ const productsData = [
     name: "BARRA INTEGRA BASE DE CHOCOLATE con ARÁNDANOS - 44gr.",
     category: "barritas",
     image: "/Images/barra-chocoyarandano.jpg",
-    price: "350",
+    price: "SIN STOCK",
   },
   {
     id: "063",
@@ -526,7 +526,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "SIN STOCK",
+    price: "400",
   },
 ];
 
