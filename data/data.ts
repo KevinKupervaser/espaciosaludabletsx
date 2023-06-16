@@ -40,14 +40,14 @@ const productsData = [
     name: "MANTEQUILLA DE MANI NATURAL CON STEVIA - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani.JPG",
-    price: "750",
+    price: "SIN STOCK",
   },
   {
     id: "007",
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "750",
+    price: "SIN STOCK",
   },
   {
     id: "007",
@@ -111,7 +111,7 @@ const productsData = [
     name: "SILK ALMENDRA ORIGINAL - 1Lt.",
     category: "leches",
     image: "/Images/silk-almendra.PNG",
-    price: "820",
+    price: "SIN STOCK",
   },
   {
     id: "105",
@@ -232,7 +232,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "2000",
+    price: "SIN STOCK",
   },
   {
     id: "024",
@@ -304,7 +304,7 @@ const productsData = [
     name: "MERMELADA DIETETICA DURAZNO - 400gr.",
     category: "mermelada",
     image: "/Images/mermelada-durazno.JPG",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "034",
