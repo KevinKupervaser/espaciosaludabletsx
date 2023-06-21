@@ -11,7 +11,7 @@ const productsData = [
     name: "BARRA DE PASAS Y ALMENDRAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyalmendras.png",
-    price: "300",
+    price: "390",
   },
   {
     id: "003",
@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "300",
+    price: "390",
   },
   {
     id: "005",
@@ -40,21 +40,21 @@ const productsData = [
     name: "MANTEQUILLA DE MANI NATURAL CON STEVIA - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani.JPG",
-    price: "SIN STOCK",
+    price: "1020",
   },
   {
     id: "007",
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "SIN STOCK",
+    price: "1020",
   },
   {
     id: "007",
     name: "MANTEQUILLA MANI NATURAL 100% - 400gr.",
     category: "mantequilla",
     image: "/Images/mnatural.jpg",
-    price: "SIN STOCK",
+    price: "1020",
   },
   {
     id: "008",
@@ -68,7 +68,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "830",
+    price: "910",
   },
   {
     id: "009",
@@ -182,7 +182,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "SIN STOCK",
+    price: "730",
   },
   {
     id: "0100",
@@ -232,7 +232,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "2070",
   },
   {
     id: "024",
@@ -261,7 +261,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "1850",
+    price: "1970",
   },
   {
     id: "028",
@@ -275,7 +275,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1850",
+    price: "1970",
   },
   {
     id: "030",
@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "SIN STOCK",
+    price: "1970",
   },
   {
     id: "032",
@@ -304,21 +304,21 @@ const productsData = [
     name: "MERMELADA DIETETICA DURAZNO - 400gr.",
     category: "mermelada",
     image: "/Images/mermelada-durazno.JPG",
-    price: "SIN STOCK",
+    price: "830",
   },
   {
     id: "034",
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
     image: "/Images/mermelada-frutilla.jpeg",
-    price: "700",
+    price: "830",
   },
   {
     id: "035",
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
     image: "/Images/arandanosmerme.JPG",
-    price: "700",
+    price: "830",
   },
 
   {
@@ -348,14 +348,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "970",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "970",
   },
   {
     id: "039",
