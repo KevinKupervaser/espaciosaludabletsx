@@ -182,7 +182,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "730",
+    price: "SIN STOCK",
   },
   {
     id: "0100",
@@ -261,7 +261,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "1970",
+    price: "2150",
   },
   {
     id: "028",
@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "1970",
+    price: "2150",
   },
   {
     id: "032",
@@ -304,7 +304,7 @@ const productsData = [
     name: "MERMELADA DIETETICA DURAZNO - 400gr.",
     category: "mermelada",
     image: "/Images/mermelada-durazno.JPG",
-    price: "830",
+    price: "SIN STOCK",
   },
   {
     id: "034",
@@ -406,7 +406,7 @@ const productsData = [
     name: "BARRA INTEGRA BANANA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIbanana.jpg",
-    price: "320",
+    price: "390",
   },
   {
     id: "046",
@@ -420,21 +420,21 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "320",
+    price: "390",
   },
   {
     id: "048",
     name: "BARRA INTEGRA CON GIRASOL - 44gr.",
     category: "barritas",
     image: "/Images/BIgirasol.jpg",
-    price: "320",
+    price: "390",
   },
   {
     id: "049",
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "320",
+    price: "390",
   },
   // {
   //   id: "050",
@@ -526,7 +526,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "400",
+    price: "450",
   },
 ];
 
