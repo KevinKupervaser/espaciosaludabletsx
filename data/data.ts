@@ -43,6 +43,13 @@ const productsData = [
     price: "1020",
   },
   {
+    id: "080",
+    name: "MANTEQUILLA DE MANI NATURAL CRUNCH - 400gr.",
+    category: "mantequilla",
+    image: "/Images/mantemani.JPG",
+    price: "1020",
+  },
+  {
     id: "007",
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
@@ -232,7 +239,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "2070",
+    price: "2160",
   },
   {
     id: "024",
@@ -275,7 +282,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "1970",
+    price: "2150",
   },
   {
     id: "030",
