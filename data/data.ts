@@ -4,7 +4,7 @@ const productsData = [
     name: "BARRA DE PASAS Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyarandanos.jpeg",
-    price: "SIN STOCK",
+    price: "390",
   },
   {
     id: "002",
@@ -18,7 +18,7 @@ const productsData = [
     name: "BARRA DE MANZANA Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-manzanayarandanos.png",
-    price: "SIN STOCK",
+    price: "390",
   },
   {
     id: "004",
@@ -32,7 +32,7 @@ const productsData = [
     name: "BARRA DE BANANAS Y DDL SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-bananayddl.jpeg",
-    price: "SIN STOCK",
+    price: "390",
   },
 
   {
@@ -75,14 +75,14 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "910",
+    price: "1050",
   },
   {
     id: "009",
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1050",
+    price: "1230",
   },
   // {
   //   id: "009",
@@ -239,7 +239,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "2150",
   },
   {
     id: "024",
@@ -275,7 +275,7 @@ const productsData = [
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "650",
+    price: "750",
   },
   {
     id: "029",
@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "650",
+    price: "750",
   },
   {
     id: "031",
@@ -377,14 +377,21 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "3700",
+    price: "4000",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "3700",
+    price: "4000",
+  },
+  {
+    id: "0410",
+    name: "GRANOLA LIVIANA SAN LUCAS - 250grs.",
+    category: "cereales",
+    image: "/Images/granola-sanlucas.jpg",
+    price: "950",
   },
   {
     id: "042",
