@@ -210,7 +210,7 @@ const productsData = [
     name: "DIABEST LIMON - 200gr.",
     category: "cereales",
     image: "/Images/diabest-limon.jpeg",
-    price: "700",
+    price: "SIN STOCK",
   },
   // {
   //   id: "019",
@@ -239,7 +239,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "2150",
+    price: "SIN STOCK",
   },
   {
     id: "024",
