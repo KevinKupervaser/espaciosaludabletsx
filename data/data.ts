@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "390",
+    price: "SIN STOCK",
   },
   {
     id: "005",
@@ -282,14 +282,14 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "2150",
+    price: "SIN STOCK",
   },
   {
     id: "030",
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "750",
+    price: "SIN STOCK",
   },
   {
     id: "031",
@@ -377,7 +377,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "4000",
+    price: "SIN STOCK",
   },
   {
     id: "041",
@@ -448,7 +448,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "390",
+    price: "SIN STOCK",
   },
   // {
   //   id: "050",
