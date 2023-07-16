@@ -377,7 +377,7 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "SIN STOCK",
+    price: "4000",
   },
   {
     id: "041",
@@ -427,7 +427,7 @@ const productsData = [
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "SIN STOCK",
+    price: "390",
   },
   {
     id: "047",
@@ -448,7 +448,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "SIN STOCK",
+    price: "390",
   },
   // {
   //   id: "050",
