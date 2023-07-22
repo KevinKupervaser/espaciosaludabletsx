@@ -75,14 +75,14 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1050",
+    price: "1100",
   },
   {
     id: "009",
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1230",
+    price: "1390",
   },
   // {
   //   id: "009",
@@ -189,7 +189,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "SIN STOCK",
+    price: "720",
   },
   {
     id: "0100",
@@ -239,14 +239,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "2250",
   },
   {
     id: "024",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "800",
   },
   // {
   //   id: "025",
@@ -282,14 +282,14 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "2150",
   },
   {
     id: "030",
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "750",
   },
   {
     id: "031",
@@ -303,7 +303,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "650",
+    price: "750",
   },
 
   {
@@ -311,21 +311,21 @@ const productsData = [
     name: "MERMELADA DIETETICA DURAZNO - 400gr.",
     category: "mermelada",
     image: "/Images/mermelada-durazno.JPG",
-    price: "SIN STOCK",
+    price: "900",
   },
   {
     id: "034",
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
     image: "/Images/mermelada-frutilla.jpeg",
-    price: "830",
+    price: "900",
   },
   {
     id: "035",
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
     image: "/Images/arandanosmerme.JPG",
-    price: "830",
+    price: "900",
   },
 
   {
@@ -333,14 +333,14 @@ const productsData = [
     name: "MERMELADA DIETETICA FRUTILLA con STEVIA",
     category: "mermelada",
     image: "/Images/frutilla-mermelada.JPG",
-    price: "900",
+    price: "1300",
   },
   {
     id: "065",
     name: "MERMELADA DIETETICA ARANDANOS con STEVIA",
     category: "mermelada",
     image: "/Images/arandano-mermelada.JPG",
-    price: "900",
+    price: "1300",
   },
   {
     id: "036",
@@ -355,14 +355,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "960",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "960",
   },
   {
     id: "039",
