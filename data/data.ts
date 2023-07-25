@@ -154,7 +154,7 @@ const productsData = [
     name: "NUEZ PELADA - 150gr.",
     category: "cereales",
     image: "/Images/nuezpeladadorada.JPG",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "015",
@@ -189,7 +189,7 @@ const productsData = [
     name: "HARINA DE COCO CUMANÁ - 200gr.",
     category: "cereales",
     image: "/Images/cumana_coco.JPG",
-    price: "720",
+    price: "SIN STOCK",
   },
   {
     id: "0100",
@@ -239,14 +239,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "2250",
+    price: "SIN STOCK",
   },
   {
     id: "024",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "800",
+    price: "SIN STOCK",
   },
   // {
   //   id: "025",
@@ -311,7 +311,7 @@ const productsData = [
     name: "MERMELADA DIETETICA DURAZNO - 400gr.",
     category: "mermelada",
     image: "/Images/mermelada-durazno.JPG",
-    price: "900",
+    price: "SIN STOCK",
   },
   {
     id: "034",
@@ -540,7 +540,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "450",
+    price: "SIN STOCK",
   },
 ];
 
