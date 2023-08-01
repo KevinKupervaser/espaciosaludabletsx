@@ -82,7 +82,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1390",
+    price: "SIN STOCK",
   },
   // {
   //   id: "009",
@@ -203,7 +203,7 @@ const productsData = [
     name: "DIABEST COCO Y AVENA - 200gr.",
     category: "cereales",
     image: "/Images/diabest-coco-avena.jpeg",
-    price: "700",
+    price: "SIN STOCK",
   },
   {
     id: "0101",
@@ -289,7 +289,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "750",
+    price: "SIN STOCK",
   },
   {
     id: "031",
@@ -303,7 +303,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "750",
+    price: "SIN STOCK",
   },
 
   {
@@ -355,14 +355,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "960",
+    price: "1050",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "960",
+    price: "1050",
   },
   {
     id: "039",
@@ -540,7 +540,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "SIN STOCK",
+    price: "450",
   },
 ];
 
