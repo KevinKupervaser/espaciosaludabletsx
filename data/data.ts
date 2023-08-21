@@ -36,7 +36,7 @@ const productsData = [
   },
   {
     id: "0055",
-    name: "BARRA DE 71% cacao - 45grs.",
+    name: "BARRA 71% cacao - 45grs.",
     category: "Barritas",
     image: "/Images/almendra_cacao_71.PNG",
     price: "450",
@@ -418,14 +418,14 @@ const productsData = [
     id: "0444",
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
-    image: "/Images/pancake_vainilla_onetwo.JPG",
+    image: "/Images/wrap-espinaca.png",
     price: "2600",
   },
   {
     id: "0445",
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
-    image: "/Images/wrap-espinaca.jpg",
+    image: "/Images/wrap-espinaca.png",
     price: "2700",
   },
 
@@ -464,6 +464,7 @@ const productsData = [
     image: "/Images/BIcajuarandano.jpg",
     price: "450",
   },
+  ,
   // {
   //   id: "050",
   //   name: "BARRA INTEGRA SEMILLAS Y CHOCOLATE SIN TACC - 27gr.",
@@ -478,20 +479,6 @@ const productsData = [
   //   image: "/Images/integra-semilla.JPG",
   //   price: "SIN STOCK",
   // },
-  {
-    id: "051",
-    name: "BARRA INTEGRA BASE DE CHOCOLATE CON MANI - 44gr.",
-    category: "barritas",
-    image: "/Images/integrachocomani.JPG",
-    price: "SIN STOCK",
-  },
-  {
-    id: "052",
-    name: "BARRA INTEGRA BASE DE CHOCOLATE con ARÁNDANOS - 44gr.",
-    category: "barritas",
-    image: "/Images/barra-chocoyarandano.jpg",
-    price: "SIN STOCK",
-  },
   {
     id: "063",
     name: "MIX 18 BARRAS INTEGRA",
