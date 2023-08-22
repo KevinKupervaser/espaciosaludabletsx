@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "SIN STOCK",
+    price: "450",
   },
   {
     id: "005",
@@ -75,14 +75,14 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 125ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "1250",
+    price: "1570",
   },
   {
     id: "090",
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "SIN STOCK",
+    price: "1960",
   },
   {
     id: "011",
@@ -138,14 +138,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "3000",
   },
   {
     id: "024",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "1070",
   },
   {
     id: "027",
@@ -187,7 +187,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "SIN STOCK",
+    price: "900",
   },
 
   {
@@ -296,14 +296,14 @@ const productsData = [
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/wrap-espinaca.png",
-    price: "2600",
+    price: "3000",
   },
   {
     id: "070",
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/wrap-espinaca.png",
-    price: "2700",
+    price: "3000",
   },
 
   {
