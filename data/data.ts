@@ -39,7 +39,7 @@ const productsData = [
     name: "BARRA 71% cacao - 45grs.",
     category: "Barritas",
     image: "/Images/almendra_cacao_71.PNG",
-    price: "450",
+    price: "SIN STOCK",
   },
 
   {
@@ -96,7 +96,7 @@ const productsData = [
     name: "SILK ALMENDRA ORIGINAL - 1Lt.",
     category: "leches",
     image: "/Images/silk-almendra.PNG",
-    price: "SIN STOCK",
+    price: "820",
   },
   {
     id: "105",
@@ -187,7 +187,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "900",
+    price: "SIN STOCK",
   },
 
   {
@@ -232,6 +232,13 @@ const productsData = [
     category: "mermelada",
     image: "/Images/mielpura.JPG",
     price: "820",
+  },
+  {
+    id: "090",
+    name: "JUAL STEVIA POLVO - 110gr",
+    category: "azucar",
+    image: "/Images/jual-edulcorante-polvo.jpg",
+    price: "1400",
   },
 
   {
@@ -295,14 +302,14 @@ const productsData = [
     id: "075",
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
-    image: "/Images/wrap-espinaca.png",
+    image: "/Images/pancake-ot.png",
     price: "3000",
   },
   {
     id: "070",
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
-    image: "/Images/wrap-espinaca.png",
+    image: "/Images/wrap-ot.png",
     price: "3000",
   },
 
@@ -353,7 +360,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "520",
+    price: "560",
   },
 ];
 
