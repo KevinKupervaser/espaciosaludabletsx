@@ -138,7 +138,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "3000",
+    price: "SIN STOCK",
   },
   {
     id: "024",
