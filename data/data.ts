@@ -85,6 +85,13 @@ const productsData = [
     price: "1960",
   },
   {
+    id: "090",
+    name: "JUAL STEVIA POLVO - 110gr",
+    category: "azucar",
+    image: "/Images/jual-edulcorante-polvo.jpg",
+    price: "1400",
+  },
+  {
     id: "011",
     name: "KONY STEVIA POLVO - 100u.",
     category: "edulcorante",
@@ -233,13 +240,7 @@ const productsData = [
     image: "/Images/mielpura.JPG",
     price: "820",
   },
-  {
-    id: "090",
-    name: "JUAL STEVIA POLVO - 110gr",
-    category: "azucar",
-    image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "1400",
-  },
+  
 
   {
     id: "037",
