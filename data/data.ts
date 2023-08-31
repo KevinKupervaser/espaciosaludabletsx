@@ -240,8 +240,6 @@ const productsData = [
     image: "/Images/mielpura.JPG",
     price: "820",
   },
-  
-
   {
     id: "037",
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
@@ -254,7 +252,7 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "1250",
+    price: "SIN STOCK",
   },
   {
     id: "039",
@@ -361,7 +359,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "560",
+    price: "SIN STOCK",
   },
 ];
 
