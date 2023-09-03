@@ -145,14 +145,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "3300",
   },
   {
     id: "024",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "1200",
   },
   {
     id: "027",
@@ -245,14 +245,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "1500",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "1500",
   },
   {
     id: "039",
@@ -267,14 +267,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "SIN STOCK",
+    price: "5800",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "4500",
+    price: "5800",
   },
   {
     id: "042",
@@ -359,7 +359,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "SIN STOCK",
+    price: "620",
   },
 ];
 
