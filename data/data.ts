@@ -245,7 +245,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "038",
