@@ -18,21 +18,21 @@ const productsData = [
     name: "BARRA DE MANZANA Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-manzanayarandanos.png",
-    price: "450",
+    price: "SIN STOCK",
   },
   {
     id: "004",
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "450",
+    price: "SIN STOCK",
   },
   {
     id: "005",
     name: "BARRA DE BANANAS Y DDL SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-bananayddl.jpeg",
-    price: "450",
+    price: "SIN STOCK",
   },
   {
     id: "098",
@@ -89,7 +89,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr",
     category: "azucar",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "1400",
+    price: "SIN STOCK",
   },
   {
     id: "011",
@@ -180,7 +180,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "900",
+    price: "SIN STOCK",
   },
   {
     id: "031",
