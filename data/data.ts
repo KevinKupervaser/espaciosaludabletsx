@@ -138,14 +138,14 @@ const productsData = [
     name: "ALMENDRAS - 150gr.",
     category: "cereales",
     image: "/Images/almendrasbowl.JPG",
-    price: "1250",
+    price: "SIN STOCK",
   },
   {
     id: "023",
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "3500",
+    price: "SIN STOCK",
   },
   {
     id: "024",
@@ -187,7 +187,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "2700",
+    price: "SIN STOCK",
   },
   {
     id: "032",
@@ -252,14 +252,14 @@ const productsData = [
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "1500",
+    price: "SIN STOCK",
   },
   {
     id: "039",
     name: "MIX DE SEMILLAS (chía, lino, sesamo, girasol) - 200gr.",
     category: "cereales",
     image: "/Images/mixsemillas.webp",
-    price: "400",
+    price: "SIN STOCK",
   },
 
   {
@@ -315,28 +315,28 @@ const productsData = [
     id: "090",
     name: "AVENA PANCAKE DULCES X6",
     category: "pancake",
-    image: "/Images/pancakes_avena.png",
+    image: "/Images/pancakes_avena.jpg",
     price: "2200",
   },
   {
     id: "091",
     name: "AVENA PANCAKE CACAO X6",
     category: "pancake",
-    image: "/Images/pancakes_cacao.png",
+    image: "/Images/pancakes_cacao.jpg",
     price: "2350",
   },
   {
     id: "092",
     name: "AVENA PANCAKE SALADOS X6",
     category: "pancake",
-    image: "/Images/pancakes_avena.png",
+    image: "/Images/pancakes_avena.jpg",
     price: "2300",
   },
   {
     id: "093",
     name: "AVENA CREAM CRUNCHY POTE",
     category: "pancake",
-    image: "/Images/avena_cream.png",
+    image: "/Images/avena_cream.jpg",
     price: "1100",
   },
 
@@ -387,7 +387,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "620",
+    price: "SIN STOCK",
   },
 ];
 
