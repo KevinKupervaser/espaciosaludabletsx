@@ -152,7 +152,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "1200",
+    price: "SIN STOCK",
   },
   {
     id: "027",
@@ -302,14 +302,14 @@ const productsData = [
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/pancake-ot.png",
-    price: "3000",
+    price: "3200",
   },
   {
     id: "070",
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/wrap-ot.png",
-    price: "3000",
+    price: "3190",
   },
   {
     id: "090",
