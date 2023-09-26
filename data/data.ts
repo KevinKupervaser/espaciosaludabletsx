@@ -264,16 +264,16 @@ const productsData = [
 
   {
     id: "120",
-    name: "GRANOLA CLASICA - 390gr.",
+    name: "GRANOLA CLASICA - 350gr.",
     category: "cereales",
-    image: "/Images/granola_integra_caju.jpeg",
-    price: "3500",
+    image: "/Images/granola_390_clasica.png",
+    price: "SIN STOCK",
   },
   {
     id: "126",
-    name: "GRANOLA CHOCOLATE - 390gr.",
+    name: "GRANOLA CHOCOLATE - 350gr.",
     category: "cereales",
-    image: "/Images/granola_integra_chocolate.jpeg",
+    image: "/Images/granola_390_cacao.JPG",
     price: "3500",
   },
 
