@@ -25,7 +25,7 @@ const productsData = [
     name: "BARRA DE CACAO Y AVELLANAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-cacaoyavellanas.png",
-    price: "SIN STOCK",
+    price: "450",
   },
   {
     id: "005",
@@ -39,7 +39,7 @@ const productsData = [
     name: "BARRA 71% cacao - 45grs.",
     category: "Barritas",
     image: "/Images/almendra_cacao_71.PNG",
-    price: "SIN STOCK",
+    price: "1650",
   },
 
   {
@@ -89,7 +89,7 @@ const productsData = [
     name: "JUAL STEVIA POLVO - 110gr",
     category: "azucar",
     image: "/Images/jual-edulcorante-polvo.jpg",
-    price: "SIN STOCK",
+    price: "1900",
   },
   {
     id: "011",
@@ -145,7 +145,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "SIN STOCK",
+    price: "3800",
   },
   {
     id: "024",
@@ -159,28 +159,28 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "2700",
+    price: "SIN STOCK",
   },
   {
     id: "028",
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "900",
+    price: "1150",
   },
   {
     id: "029",
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "2700",
+    price: "SIN STOCK",
   },
   {
     id: "030",
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "1150",
   },
   {
     id: "031",
@@ -209,14 +209,14 @@ const productsData = [
     name: "MERMELADA DIETETICA FRUTILLA - 400gr",
     category: "mermelada",
     image: "/Images/mermelada-frutilla.jpeg",
-    price: "900",
+    price: "1400",
   },
   {
     id: "035",
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
     image: "/Images/arandanosmerme.JPG",
-    price: "900",
+    price: "1400",
   },
 
   {
@@ -224,14 +224,14 @@ const productsData = [
     name: "MERMELADA DIETETICA FRUTILLA con STEVIA",
     category: "mermelada",
     image: "/Images/frutilla-mermelada.JPG",
-    price: "1500",
+    price: "1650",
   },
   {
     id: "065",
     name: "MERMELADA DIETETICA ARANDANOS con STEVIA",
     category: "mermelada",
     image: "/Images/arandano-mermelada.JPG",
-    price: "1500",
+    price: "1650",
   },
   {
     id: "036",
@@ -245,14 +245,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "SIN STOCK",
+    price: "1600",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "SIN STOCK",
+    price: "1600",
   },
   {
     id: "039",
@@ -260,6 +260,21 @@ const productsData = [
     category: "cereales",
     image: "/Images/mixsemillas.webp",
     price: "SIN STOCK",
+  },
+
+  {
+    id: "120",
+    name: "GRANOLA CLASICA - 390gr.",
+    category: "cereales",
+    image: "/Images/granola_integra_caju.jpeg",
+    price: "3500",
+  },
+  {
+    id: "126",
+    name: "GRANOLA CHOCOLATE - 390gr.",
+    category: "cereales",
+    image: "/Images/granola_integra_chocolate.jpeg",
+    price: "3500",
   },
 
   {
@@ -280,21 +295,21 @@ const productsData = [
     id: "042",
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
-    image: "/Images/onetwocacao.JPG",
+    image: "/Images/onetwo_mani.png",
     price: "2850",
   },
   {
     id: "043",
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
-    image: "/Images/onetwocacao.JPG",
+    image: "/Images/onetwo_stevia.png",
     price: "2900",
   },
   {
     id: "044",
     name: "PREMEZCLA PANCAKE CACAO (ONETWOFIT) - 300gr.",
     category: "cereales",
-    image: "/Images/onetwocacao.JPG",
+    image: "/Images/onetwo_cacao.png",
     price: "3200",
   },
   {
@@ -359,21 +374,21 @@ const productsData = [
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "450",
+    price: "500",
   },
   {
     id: "048",
     name: "BARRA INTEGRA CON GIRASOL - 44gr.",
     category: "barritas",
     image: "/Images/BIgirasol.jpg",
-    price: "450",
+    price: "500",
   },
   {
     id: "049",
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "450",
+    price: "500",
   },
   {
     id: "063",
@@ -387,7 +402,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "SIN STOCK",
+    price: "600",
   },
 ];
 
