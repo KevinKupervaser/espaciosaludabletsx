@@ -4,7 +4,7 @@ const productsData = [
     name: "BARRA DE PASAS Y ARANDANOS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyarandanos.jpeg",
-    price: "500",
+    price: "SIN STOCK",
   },
   {
     id: "002",
@@ -39,7 +39,7 @@ const productsData = [
     name: "BARRA 71% cacao - 80grs.",
     category: "Barritas",
     image: "/Images/almendra_cacao_71.PNG",
-    price: "1650",
+    price: "SIN STOCK",
   },
 
   {
@@ -274,7 +274,7 @@ const productsData = [
     name: "GRANOLA CHOCOLATE - 350gr.",
     category: "cereales",
     image: "/Images/granola_390_cacao.JPG",
-    price: "3500",
+    price: "SIN STOCK",
   },
 
   {
@@ -282,14 +282,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "5800",
+    price: "6500",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "5800",
+    price: "6500",
   },
   {
     id: "042",
@@ -402,7 +402,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "600",
+    price: "780",
   },
 ];
 
