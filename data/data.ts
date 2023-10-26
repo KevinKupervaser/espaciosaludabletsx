@@ -11,7 +11,7 @@ const productsData = [
     name: "BARRA DE PASAS Y ALMENDRAS SIN AZUCAR - 45grs.",
     category: "Barritas",
     image: "/Images/muecas-pasasyalmendras.png",
-    price: "500",
+    price: "SIN STOCK",
   },
   {
     id: "003",
@@ -61,7 +61,7 @@ const productsData = [
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "2300",
+    price: "SIN STOCK",
   },
   {
     id: "007",
@@ -96,7 +96,7 @@ const productsData = [
     name: "KONY STEVIA POLVO - 100u.",
     category: "edulcorante",
     image: "/Images/kony.jpg",
-    price: "1860",
+    price: "SIN STOCK",
   },
   // {
   //   id: "104",
@@ -124,7 +124,7 @@ const productsData = [
     name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
     category: "cereales",
     image: "/Images/frutossecosnuevo.JPG",
-    price: "790",
+    price: "SIN STOCK",
   },
   {
     id: "014",
@@ -216,7 +216,7 @@ const productsData = [
     name: "MERMELADA DIETETICA ARANDANOS - 400gr",
     category: "mermelada",
     image: "/Images/arandanosmerme.JPG",
-    price: "1400",
+    price: "SIN STOCK",
   },
 
   {
@@ -317,7 +317,7 @@ const productsData = [
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/pancake-ot.png",
-    price: "3500",
+    price: "SIN STOCK",
   },
   {
     id: "070",
