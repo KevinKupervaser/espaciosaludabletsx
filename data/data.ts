@@ -34,13 +34,7 @@ const productsData = [
   //   image: "/Images/muecas-bananayddl.jpeg",
   //   price: "SIN STOCK",
   // },
-  {
-    id: "098",
-    name: "BARRA 71% cacao - 80grs.",
-    category: "Barritas",
-    image: "/Images/almendra_cacao_71.PNG",
-    price: "SIN STOCK",
-  },
+ 
 
   {
     id: "198",
@@ -50,15 +44,22 @@ const productsData = [
     price: "2100",
   },
   {
+    id: "201",
+    name: "ENTRENUTS MANÍ CACAO - 500gr.",
+    category: "mermelada",
+    image: "/Images/entrenuts-cacao.JPG",
+    price: "2100",
+  },
+  {
     id: "199",
-    name: "ENTRENUTS MANI STEVIA - 370gr.",
+    name: "ENTRENUTS MANÍ STEVIA - 370gr.",
     category: "mermelada",
     image: "/Images/entrenuts-mani.JPG",
     price: "2100",
   },
   {
     id: "200",
-    name: "ENTRENUTS MANI NATURAL - 370gr.",
+    name: "ENTRENUTS MANÍ NATURAL - 370gr.",
     category: "mermelada",
     image: "/Images/entrenuts-mani-amarillo.JPG",
     price: "2100",
@@ -202,14 +203,14 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "SIN STOCK",
+    price: "3800",
   },
   {
     id: "032",
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "SIN STOCK",
+    price: "1500",
   },
 
   // {
@@ -418,6 +419,13 @@ const productsData = [
     category: "bocadito",
     image: "/Images/celienergy.JPG",
     price: "760",
+  },
+  {
+    id: "098",
+    name: "BARRA 71% cacao - 80grs.",
+    category: "Barritas",
+    image: "/Images/almendra_cacao_71.PNG",
+    price: "SIN STOCK",
   },
 ];
 
