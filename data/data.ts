@@ -175,7 +175,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "3800",
+    price: "SIN STOCK",
   },
   {
     id: "028",
@@ -203,14 +203,14 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "3800",
+    price: "SIN STOCK",
   },
   {
     id: "032",
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
     image: "/Images/cookieschocomani.jpg",
-    price: "1500",
+    price: "SIN STOCK",
   },
 
   // {
@@ -261,14 +261,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "2050",
+    price: "SIN STOCK",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-integral.png",
-    price: "2050",
+    price: "SIN STOCK",
   },
   // {
   //   id: "039",
@@ -418,7 +418,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "760",
+    price: "SIN STOCK",
   },
   {
     id: "098",
