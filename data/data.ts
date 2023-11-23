@@ -34,7 +34,6 @@ const productsData = [
   //   image: "/Images/muecas-bananayddl.jpeg",
   //   price: "SIN STOCK",
   // },
- 
 
   {
     id: "198",
@@ -105,7 +104,7 @@ const productsData = [
     name: "JUAL STEVIA LIQUIDO - 250ml.",
     category: "edulcorante",
     image: "/Images/jual-edulcorante.jpg",
-    price: "2500",
+    price: "2800",
   },
   {
     id: "090",
@@ -298,14 +297,14 @@ const productsData = [
     name: "GRANOLA INTEGRA CLASICA - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_caju.jpeg",
-    price: "7200",
+    price: "7500",
   },
   {
     id: "041",
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "7200",
+    price: "7500",
   },
   {
     id: "042",
@@ -333,7 +332,7 @@ const productsData = [
     name: "PREMEZCLA PANCAKE VAINILLA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/pancake-ot.png",
-    price: "SIN STOCK",
+    price: "3500",
   },
   {
     id: "070",
@@ -376,21 +375,21 @@ const productsData = [
     name: "BARRA INTEGRA BANANA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIbanana.jpg",
-    price: "550",
+    price: "620",
   },
   {
     id: "046",
     name: "BARRA INTEGRA ALMENDRA Y NUEZ - 44gr.",
     category: "barritas",
     image: "/Images/BIalmendra.jpg",
-    price: "550",
+    price: "620",
   },
   {
     id: "047",
     name: "BARRA INTEGRA CHOCOLATE y AVENA - 44gr.",
     category: "barritas",
     image: "/Images/BIchocolate.jpg",
-    price: "550",
+    price: "620",
   },
   {
     id: "048",
@@ -404,7 +403,7 @@ const productsData = [
     name: "BARRA INTEGRA CAJU Y ARANDANOS - 44gr.",
     category: "barritas",
     image: "/Images/BIcajuarandano.jpg",
-    price: "550",
+    price: "620",
   },
   {
     id: "063",
@@ -420,13 +419,13 @@ const productsData = [
     image: "/Images/celienergy.JPG",
     price: "SIN STOCK",
   },
-  {
-    id: "098",
-    name: "BARRA 71% cacao - 80grs.",
-    category: "Barritas",
-    image: "/Images/almendra_cacao_71.PNG",
-    price: "SIN STOCK",
-  },
+  // {
+  //   id: "098",
+  //   name: "BARRA 71% cacao - 80grs.",
+  //   category: "Barritas",
+  //   image: "/Images/almendra_cacao_71.PNG",
+  //   price: "SIN STOCK",
+  // },
 ];
 
 export default productsData;
