@@ -346,28 +346,28 @@ const productsData = [
     name: "AVENA PANCAKE DULCES X6",
     category: "pancake",
     image: "/Images/pancakes_avena.jpg",
-    price: "2500",
+    price: "3100",
   },
   {
     id: "091",
     name: "AVENA PANCAKE CACAO X6",
     category: "pancake",
     image: "/Images/pancakes_cacao.jpg",
-    price: "2620",
+    price: "3300",
   },
   {
     id: "092",
     name: "AVENA PANCAKE SALADOS X6",
     category: "pancake",
     image: "/Images/pancakes_avena.jpg",
-    price: "2600",
+    price: "3000",
   },
   {
     id: "093",
     name: "AVENA CREAM CRUNCHY POTE",
     category: "pancake",
     image: "/Images/avena_cream.jpg",
-    price: "1200",
+    price: "1600",
   },
 
   {
