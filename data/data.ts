@@ -167,7 +167,7 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "2500",
+    price: "SIN STOCK",
   },
   {
     id: "027",
@@ -181,7 +181,7 @@ const productsData = [
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "2000",
+    price: "SIN STOCK",
   },
   {
     id: "029",
