@@ -160,14 +160,14 @@ const productsData = [
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "7300",
+    price: "SIN STOCK",
   },
   {
     id: "024",
     name: "PEPAS INTEGRALES MEMBRILLO - 250grs.",
     category: "cereales",
     image: "/Images/pepas-integrales.jpeg",
-    price: "3500",
+    price: "SIN STOCK",
   },
   {
     id: "027",
@@ -260,7 +260,7 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.jpg",
-    price: "4950",
+    price: "SIN STOCK",
   },
   {
     id: "038",
