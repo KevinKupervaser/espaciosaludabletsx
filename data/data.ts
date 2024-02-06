@@ -318,14 +318,14 @@ const productsData = [
     name: "PREMEZCLA PANCAKE CON STEVIA (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwo_stevia.png",
-    price: "3900",
+    price: "4500",
   },
   {
     id: "044",
     name: "PREMEZCLA PANCAKE CACAO (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwo_cacao.png",
-    price: "4500",
+    price: "4900",
   },
   {
     id: "075",
@@ -346,7 +346,14 @@ const productsData = [
     name: "PREMEZCLA PANCAKE KETO CACAO (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/pancake_keto.png",
-    price: "SIN STOCK",
+    price: "5300",
+  },
+  {
+    id: "106",
+    name: "PREMEZCLA PANCAKE KETO VAINILLA (ONETWOFIT) - 200gr.",
+    category: "cereales",
+    image: "/Images/pancake_vainilla_keto.png",
+    price: "5300",
   },
   {
     id: "090",
