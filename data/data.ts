@@ -61,7 +61,7 @@ const productsData = [
     name: "ENTRENUTS MANÍ NATURAL - 370gr.",
     category: "mermelada",
     image: "/Images/entrenuts-mani-amarillo.JPG",
-    price: "4100",
+    price: "SIN STOCK",
   },
 
   {
@@ -83,7 +83,7 @@ const productsData = [
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "SIN S3950",
+    price: "SIN STOCK",
   },
   {
     id: "007",
@@ -188,7 +188,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 1kg.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "7000",
+    price: "SIN STOCK",
   },
   {
     id: "030",
@@ -202,7 +202,7 @@ const productsData = [
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 1kg.",
     category: "cereales",
     image: "/Images/cookiechocomani.JPG",
-    price: "7000",
+    price: "SIN STOCK",
   },
   {
     id: "032",
@@ -339,7 +339,7 @@ const productsData = [
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/wrap-ot.png",
-    price: "4200",
+    price: "SIN STOCK",
   },
   {
     id: "105",
@@ -381,7 +381,7 @@ const productsData = [
     name: "AVENA CREAM CRUNCHY POTE",
     category: "pancake",
     image: "/Images/avena_cream.jpg",
-    price: "2000",
+    price: "SIN STOCK",
   },
 
   {
@@ -410,7 +410,7 @@ const productsData = [
     name: "BARRA INTEGRA CON GIRASOL - 44gr.",
     category: "barritas",
     image: "/Images/BIgirasol.jpg",
-    price: "1300",
+    price: "SIN STOCK",
   },
   {
     id: "049",
@@ -431,7 +431,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "1500",
+    price: "SIN STOCK",
   },
   // {
   //   id: "098",
