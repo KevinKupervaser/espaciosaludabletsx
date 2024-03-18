@@ -83,7 +83,7 @@ const productsData = [
     name: "MANTEQUILLA DE MANI CHOCOLATE - 400gr.",
     category: "mantequilla",
     image: "/Images/mantemani-choco.JPG",
-    price: "SIN STOCK",
+    price: "3900",
   },
   {
     id: "007",
@@ -174,7 +174,7 @@ const productsData = [
     name: "COOKIES INTEGRALES VAINILLA Y PASAS - 1kg.",
     category: "cereales",
     image: "/Images/cintegrales.JPG",
-    price: "7000",
+    price: "SIN STOCK",
   },
   {
     id: "028",
@@ -195,7 +195,7 @@ const productsData = [
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
     image: "/Images/cookielimon.JPG",
-    price: "SIN STOCK",
+    price: "2500",
   },
   {
     id: "031",
@@ -311,7 +311,7 @@ const productsData = [
     name: "PREMEZCLA PANCAKE MANI (ONETWOFIT) - 300gr.",
     category: "cereales",
     image: "/Images/onetwo_mani.png",
-    price: "4450",
+    price: "5100",
   },
   {
     id: "043",
@@ -376,13 +376,13 @@ const productsData = [
     image: "/Images/pancakes_avena.jpg",
     price: "4100",
   },
-  {
-    id: "093",
-    name: "AVENA CREAM CRUNCHY POTE",
-    category: "pancake",
-    image: "/Images/avena_cream.jpg",
-    price: "SIN STOCK",
-  },
+  // {
+  //   id: "093",
+  //   name: "AVENA CREAM CRUNCHY POTE",
+  //   category: "pancake",
+  //   image: "/Images/avena_cream.jpg",
+  //   price: "SIN STOCK",
+  // },
 
   {
     id: "045",
