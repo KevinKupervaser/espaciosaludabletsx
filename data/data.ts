@@ -61,7 +61,7 @@ const productsData = [
     name: "ENTRENUTS MANÍ NATURAL - 370gr.",
     category: "mermelada",
     image: "/Images/entrenuts-mani-amarillo.JPG",
-    price: "SIN STOCK",
+    price: "4800",
   },
 
   {
@@ -304,7 +304,7 @@ const productsData = [
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "12600",
+    price: "SIN STOCK",
   },
   {
     id: "042",
@@ -339,7 +339,7 @@ const productsData = [
     name: "PREMEZCLA WRAP DE ESPINACA (ONETWOFIT) - 200gr.",
     category: "cereales",
     image: "/Images/wrap-ot.png",
-    price: "SIN STOCK",
+    price: "5100",
   },
   {
     id: "105",
