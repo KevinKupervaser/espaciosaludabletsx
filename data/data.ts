@@ -273,7 +273,7 @@ const productsData = [
     id: "039",
     name: "PAN MULTICEREAL masa madre - 530gr.",
     category: "cereales",
-    image: "/Images/pan-multiceral.png",
+    image: "/Images/pan-multi.png",
     price: "4990",
   },
   // {
