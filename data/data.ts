@@ -159,7 +159,7 @@ const productsData = [
     id: "028",
     name: "COOKIES INTEGRALES Y VAINILLA PASAS - 200gr.",
     category: "cereales",
-    image: "/Images/cintegrales.JPG",
+    image: "/Images/galletita-vainilla-pasas.webp",
     price: "2500",
   },
   // {
@@ -245,7 +245,7 @@ const productsData = [
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
-    image: "/Images/pan-integral.webp",
+    image: "/Images/pan-rustico.webp",
     price: "4990",
   },
   {
@@ -389,7 +389,7 @@ const productsData = [
     name: "BARRA INTEGRA CON GIRASOL - 44gr.",
     category: "barritas",
     image: "/Images/BIgirasol.jpg",
-    price: "SIN STOCK",
+    price: "1300",
   },
   {
     id: "049",
