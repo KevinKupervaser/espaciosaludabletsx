@@ -138,7 +138,7 @@ const productsData = [
     id: "023",
     name: "PEPAS INTEGRALES MEMBRILLO - 1kg.",
     category: "cereales",
-    image: "/Images/pepas-integrales.jpeg",
+    image: "/Images/pepas-membrillo.webp",
     price: "9500",
   },
   // {
@@ -173,7 +173,7 @@ const productsData = [
     id: "030",
     name: "COOKIES INTEGRALES LIMON - 200gr.",
     category: "cereales",
-    image: "/Images/cookielimon.JPG",
+    image: "/Images/galletita-limon.webp",
     price: "2500",
   },
   // {
@@ -187,7 +187,7 @@ const productsData = [
     id: "032",
     name: "COOKIES INTEGRALES CHOCOLATE CON MANI - 200gr.",
     category: "cereales",
-    image: "/Images/cookieschocomani.jpg",
+    image: "/Images/algarroba-chocolate.webp",
     price: "SIN STOCK",
   },
 
@@ -238,21 +238,21 @@ const productsData = [
     id: "037",
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
-    image: "/Images/pan-calabaza.jpg",
+    image: "/Images/pan-calabaza.webp",
     price: "4990",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
-    image: "/Images/pan-integral.png",
+    image: "/Images/pan-integral.webp",
     price: "4990",
   },
   {
     id: "039",
     name: "PAN MULTICEREAL masa madre - 530gr.",
     category: "cereales",
-    image: "/Images/pan-multi.png",
+    image: "/Images/pan-multicereal.webp",
     price: "4990",
   },
 
