@@ -114,27 +114,6 @@ const productsData = [
     price: "4600",
   },
   // {
-  //   id: "104",
-  //   name: "SILK ALMENDRA ORIGINAL - 1Lt.",
-  //   category: "leches",
-  //   image: "/Images/silk-almendra.PNG",
-  //   price: "820",
-  // },
-  // {
-  //   id: "105",
-  //   name: "SILK ALMENDRA SIN AZUCAR - 1Lt.",
-  //   category: "leches",
-  //   image: "/Images/silk-almendra-sinazucar.PNG",
-  //   price: "820",
-  // },
-  // {
-  //   id: "106",
-  //   name: "SILK CHOCOLATE - 1Lt.",
-  //   category: "leches",
-  //   image: "/Images/silk-chocolate.PNG",
-  //   price: "820",
-  // },
-  // {
   //   id: "013",
   //   name: "FRUTOS SECOS CON BANANA Y PASAS - 200gr.",
   //   category: "cereales",
@@ -276,13 +255,6 @@ const productsData = [
     image: "/Images/pan-multi.png",
     price: "4990",
   },
-  // {
-  //   id: "039",
-  //   name: "MIX DE SEMILLAS (chía, lino, sesamo, girasol) - 200gr.",
-  //   category: "cereales",
-  //   image: "/Images/mixsemillas.webp",
-  //   price: "SIN STOCK",
-  // },
 
   {
     id: "120",
