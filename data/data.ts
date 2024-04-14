@@ -317,7 +317,7 @@ const productsData = [
     id: "070",
     name: "PREMEZCLA WRAP DE ESPINACA - 200gr.",
     category: "cereales",
-    image: "/Images/wrap-espinica.jpg",
+    image: "/Images/wrap-espinaca.jpg",
     price: "6200",
   },
   {
