@@ -47,7 +47,7 @@ const productsData = [
     name: "ENTRENUTS MANÍ CACAO - 500gr.",
     category: "mermelada",
     image: "/Images/entrenuts-cacao.JPG",
-    price: "SIN STOCK",
+    price: "4800",
   },
   {
     id: "199",
@@ -239,14 +239,14 @@ const productsData = [
     name: "PAN ESPECIAL CALABAZA masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-calabaza.webp",
-    price: "SIN STOCK",
+    price: "4900",
   },
   {
     id: "038",
     name: "PAN DOBLE INTEGRAL masa madre - 530gr.",
     category: "cereales",
     image: "/Images/pan-rustico.webp",
-    price: "SIN STOCK",
+    price: "4900",
   },
   {
     id: "039",
