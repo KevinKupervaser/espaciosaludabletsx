@@ -276,7 +276,7 @@ const productsData = [
     name: "GRANOLA CHOCOLATE - 1kg.",
     category: "cereales",
     image: "/Images/granola_integra_chocolate.jpeg",
-    price: "14400",
+    price: "SIN STOCK",
   },
   {
     id: "042",
@@ -403,7 +403,7 @@ const productsData = [
     name: "ALFAJOR CELIENERGY NUEZ Y DDL - 50gr.",
     category: "bocadito",
     image: "/Images/celienergy.JPG",
-    price: "SIN STOCK",
+    price: "1650",
   },
   // {
   //   id: "098",
