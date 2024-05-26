@@ -332,14 +332,14 @@ const productsData = [
     name: "AVENA PANCAKE DULCES X6",
     category: "pancake",
     image: "/Images/pancakes_avena.jpg",
-    price: "4500",
+    price: "5100",
   },
   {
     id: "091",
     name: "AVENA PANCAKE CACAO X6",
     category: "pancake",
     image: "/Images/pancakes_cacao.jpg",
-    price: "4800",
+    price: "5500",
   },
   {
     id: "092",
@@ -396,7 +396,7 @@ const productsData = [
     name: "MIX 18 BARRAS INTEGRA",
     category: "barritas",
     image: "/Images/muchasbarrasintegra.png",
-    price: "17000",
+    price: "23400",
   },
   {
     id: "061",
